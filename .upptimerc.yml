@@ -1,14 +1,34 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: eatyourselfnow # Your GitHub organization or username, where this repository lives
+repo: BlueSiteStatus # The name of this repository
 
 sites:
   - name: Google
     url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
+    method: POST
+  - name: Quad9 DNS
+    check: "tcp-ping"
+    url: 9.9.9.9
+    port: 53
+  - name: Blue Choice SC
+    url: https://www.bluechoicesc.com
+    method: POST
+  - name: SouthCarolinaBlues
+    url: https://www.southcarolinablues.com/
+    expectedStatusCodes:
+      - 200
+  - name: MyE-Work
+    check: "tcp-ping"
+    url: https://www.mye-work.com/
+    port: 443
+  - name: ComRemote
+    check: "tcp-ping"
+    url: https://comremote.bcbssc.com/
+    port: 443
+  - name: DRComRemote
+    url: https://drcomremote.bcbssc.com/
+    __dangerous__disable_verify_peer: true
+    method: POST
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
 
@@ -16,16 +36,20 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  # baseUrl: /BlueSiteStatus
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  name: Blue Website Monitor
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introMessage: This is a status page which uses **real-time** data for select websites. (https://github.com/upptime/upptime).
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+  robotsText: "User-agent: * \n Disallow: /"
+  skipDescriptionUpdate: true
+  skipTopicsUpdate: true
+  skipHomepageUpdate: true
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
