@@ -9,10 +9,10 @@ sites:
     check: "tcp-ping"
     url: 9.9.9.9
     port: 53
-  - name: hosted-Blue Choice SC
+  - name: (hosted)--Blue Choice SC
     url: https://www.bluechoicesc.com
     method: POST
-  - name: hosted-PalmettoGBA
+  - name: (hosted)--PalmettoGBA
     url: https://palmettogba.com/
   - name: SouthCarolinaBlues
     url: https://www.southcarolinablues.com/
