@@ -39,7 +39,7 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "hosted-Blue Choice SC",
+    "name": "(hosted)--Blue Choice SC",
     "url": "https://www.bluechoicesc.com",
     "icon": "https://favicons.githubusercontent.com/www.bluechoicesc.com",
     "slug": "hosted-blue-choice-sc",
@@ -57,22 +57,24 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "hosted-PalmettoGBA",
+    "name": "(hosted)--PalmettoGBA",
     "url": "https://palmettogba.com/",
     "icon": "https://favicons.githubusercontent.com/palmettogba.com",
     "slug": "hosted-palmetto-gba",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "89.80%",
+    "uptimeDay": "89.80%",
+    "uptimeWeek": "89.80%",
+    "uptimeMonth": "89.80%",
+    "uptimeYear": "89.80%",
     "time": 262,
     "timeDay": 262,
     "timeWeek": 262,
     "timeMonth": 262,
     "timeYear": 262,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-22": 1
+    }
   },
   {
     "name": "SouthCarolinaBlues",
@@ -190,18 +192,18 @@
     "icon": "https://favicons.githubusercontent.com/pgbavirtualoffice.bcbssc.com",
     "slug": "tri-vpn",
     "status": "down",
-    "uptime": "0.20%",
-    "uptimeDay": "0.20%",
-    "uptimeWeek": "0.20%",
-    "uptimeMonth": "0.20%",
-    "uptimeYear": "0.20%",
+    "uptime": "0.21%",
+    "uptimeDay": "0.21%",
+    "uptimeWeek": "0.21%",
+    "uptimeMonth": "0.21%",
+    "uptimeYear": "0.21%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-22": 4
+      "2022-02-22": 6
     }
   },
   {
@@ -221,7 +223,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-22": 1266,
+      "2022-02-22": 1269,
       "2022-02-21": 1440,
       "2022-02-20": 1440,
       "2022-02-19": 1440,
