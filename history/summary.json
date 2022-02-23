@@ -62,17 +62,18 @@
     "icon": "https://favicons.githubusercontent.com/palmettogba.com",
     "slug": "hosted-palmetto-gba",
     "status": "up",
-    "uptime": "4.03%",
-    "uptimeDay": "4.03%",
-    "uptimeWeek": "4.03%",
-    "uptimeMonth": "4.03%",
-    "uptimeYear": "4.03%",
+    "uptime": "37.84%",
+    "uptimeDay": "37.84%",
+    "uptimeWeek": "37.84%",
+    "uptimeMonth": "37.84%",
+    "uptimeYear": "37.84%",
     "time": 342,
     "timeDay": 342,
     "timeWeek": 342,
     "timeMonth": 342,
     "timeYear": 342,
     "dailyMinutesDown": {
+      "2022-02-23": 0,
       "2022-02-22": 147
     }
   },
@@ -154,11 +155,11 @@
     "icon": "https://favicons.githubusercontent.com/comremote.bcbssc.com",
     "slug": "com-remote",
     "status": "up",
-    "uptime": "96.99%",
+    "uptime": "97.03%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "96.99%",
-    "uptimeMonth": "96.99%",
-    "uptimeYear": "96.99%",
+    "uptimeWeek": "97.03%",
+    "uptimeMonth": "97.03%",
+    "uptimeYear": "97.03%",
     "time": 281,
     "timeDay": 250,
     "timeWeek": 281,
@@ -203,7 +204,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-22": 153
+      "2022-02-23": 60,
+      "2022-02-22": 178
     }
   },
   {
@@ -223,7 +225,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-22": 1416,
+      "2022-02-23": 60,
+      "2022-02-22": 1440,
       "2022-02-21": 1440,
       "2022-02-20": 1440,
       "2022-02-19": 1440,
