@@ -32,6 +32,8 @@ sites:
     check: "tcp-ping"
     url: https://pgbavirtualoffice.bcbssc.com/
     port: 443
+  - name: CrpVPN
+    url: https://vpn.bcbssc.com/
   - name: DRComRemote
     url: https://drcomremote.bcbssc.com/
     __dangerous__disable_verify_peer: true
