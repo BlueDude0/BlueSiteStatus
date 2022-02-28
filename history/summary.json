@@ -61,18 +61,19 @@
     "url": "https://palmettogba.com/",
     "icon": "https://favicons.githubusercontent.com/palmettogba.com",
     "slug": "hosted-palmetto-gba",
-    "status": "up",
-    "uptime": "89.84%",
-    "uptimeDay": "95.36%",
-    "uptimeWeek": "89.84%",
-    "uptimeMonth": "89.84%",
-    "uptimeYear": "89.84%",
+    "status": "down",
+    "uptime": "89.88%",
+    "uptimeDay": "95.08%",
+    "uptimeWeek": "89.88%",
+    "uptimeMonth": "89.88%",
+    "uptimeYear": "89.88%",
     "time": 304,
     "timeDay": 280,
     "timeWeek": 304,
     "timeMonth": 304,
     "timeYear": 304,
     "dailyMinutesDown": {
+      "2022-02-28": 4,
       "2022-02-27": 67,
       "2022-02-26": 99,
       "2022-02-25": 75,
@@ -87,18 +88,18 @@
     "icon": "https://favicons.githubusercontent.com/www.southcarolinablues.com",
     "slug": "south-carolina-blues",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.77%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.46%",
+    "uptimeDay": "94.97%",
+    "uptimeWeek": "99.28%",
+    "uptimeMonth": "99.46%",
+    "uptimeYear": "99.46%",
     "time": 395,
     "timeDay": 528,
     "timeWeek": 382,
     "timeMonth": 395,
     "timeYear": 395,
     "dailyMinutesDown": {
-      "2022-02-28": 3
+      "2022-02-28": 72
     }
   },
   {
@@ -107,18 +108,18 @@
     "icon": "https://favicons.githubusercontent.com/www.mye-work.com",
     "slug": "my-e-work",
     "status": "down",
-    "uptime": "99.37%",
-    "uptimeDay": "94.19%",
-    "uptimeWeek": "99.17%",
-    "uptimeMonth": "99.37%",
-    "uptimeYear": "99.37%",
+    "uptime": "98.86%",
+    "uptimeDay": "89.38%",
+    "uptimeWeek": "98.48%",
+    "uptimeMonth": "98.86%",
+    "uptimeYear": "98.86%",
     "time": 498,
     "timeDay": 546,
     "timeWeek": 498,
     "timeMonth": 498,
     "timeYear": 498,
     "dailyMinutesDown": {
-      "2022-02-28": 84
+      "2022-02-28": 153
     }
   },
   {
@@ -127,18 +128,18 @@
     "icon": "https://favicons.githubusercontent.com/www.myhealthtoolkit.com",
     "slug": "my-health-toolkit",
     "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "99.06%",
+    "uptimeDay": "95.04%",
+    "uptimeWeek": "99.06%",
+    "uptimeMonth": "99.06%",
+    "uptimeYear": "99.06%",
     "time": 332,
     "timeDay": 424,
     "timeWeek": 332,
     "timeMonth": 332,
     "timeYear": 332,
     "dailyMinutesDown": {
-      "2022-02-28": 2
+      "2022-02-28": 71
     }
   },
   {
@@ -147,18 +148,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "member",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.07%",
+    "uptimeDay": "95.08%",
+    "uptimeWeek": "99.07%",
+    "uptimeMonth": "99.07%",
+    "uptimeYear": "99.07%",
     "time": 1034,
     "timeDay": 1253,
     "timeWeek": 1034,
     "timeMonth": 1034,
     "timeYear": 1034,
     "dailyMinutesDown": {
-      "2022-02-28": 2
+      "2022-02-28": 71
     }
   },
   {
@@ -167,18 +168,18 @@
     "icon": "https://favicons.githubusercontent.com/comremote.bcbssc.com",
     "slug": "com-remote",
     "status": "down",
-    "uptime": "98.66%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "98.23%",
-    "uptimeMonth": "98.66%",
-    "uptimeYear": "98.66%",
+    "uptime": "98.15%",
+    "uptimeDay": "95.12%",
+    "uptimeWeek": "97.74%",
+    "uptimeMonth": "98.15%",
+    "uptimeYear": "98.15%",
     "time": 263,
     "timeDay": 321,
     "timeWeek": 261,
     "timeMonth": 263,
     "timeYear": 263,
     "dailyMinutesDown": {
-      "2022-02-28": 1,
+      "2022-02-28": 70,
       "2022-02-21": 177
     }
   },
@@ -188,18 +189,18 @@
     "icon": "https://favicons.githubusercontent.com/cmsvirtualoffice.bcbssc.com",
     "slug": "med-vpn",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.08%",
+    "uptimeDay": "95.15%",
+    "uptimeWeek": "99.08%",
+    "uptimeMonth": "99.08%",
+    "uptimeYear": "99.08%",
     "time": 379,
     "timeDay": 497,
     "timeWeek": 379,
     "timeMonth": 379,
     "timeYear": 379,
     "dailyMinutesDown": {
-      "2022-02-28": 1
+      "2022-02-28": 70
     }
   },
   {
@@ -208,11 +209,11 @@
     "icon": "https://favicons.githubusercontent.com/pgbavirtualoffice.bcbssc.com",
     "slug": "tri-vpn",
     "status": "up",
-    "uptime": "78.21%",
+    "uptime": "78.41%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "78.21%",
-    "uptimeMonth": "78.21%",
-    "uptimeYear": "78.21%",
+    "uptimeWeek": "78.41%",
+    "uptimeMonth": "78.41%",
+    "uptimeYear": "78.41%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -229,18 +230,20 @@
     "url": "https://vpn.bcbssc.com/",
     "icon": "https://favicons.githubusercontent.com/vpn.bcbssc.com",
     "slug": "crp-vpn",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 455,
     "timeDay": 520,
     "timeWeek": 455,
     "timeMonth": 455,
     "timeYear": 455,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-28": 1
+    }
   },
   {
     "name": "DRComRemote",
@@ -259,7 +262,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-28": 173,
+      "2022-02-28": 242,
       "2022-02-27": 1440,
       "2022-02-26": 1440,
       "2022-02-25": 1440,
