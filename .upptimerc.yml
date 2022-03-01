@@ -29,9 +29,7 @@ sites:
   - name: MedVPN
     url: https://cmsvirtualoffice.bcbssc.com/
   - name: TriVPN
-    check: "tcp-ping"
     url: https://pgbavirtualoffice.bcbssc.com/
-    port: 443
   - name: CrpVPN
     url: https://vpn.bcbssc.com/
   - name: DRComRemote
