@@ -14,26 +14,26 @@ sites:
     method: POST
   - name: hosted-PalmettoGBA
     url: https://palmettogba.com/
-  - name: SouthCarolinaBlues
-    url: https://www.southcarolinablues.com/
-    expectedStatusCodes:
-      - 200
-  - name: MyE-Work
-    url: https://www.mye-work.com/
-  - name: My Health Toolkit
-    url: https://www.myhealthtoolkit.com/
-  - name: Member
-    url: member.bcbssc.com/
-  - name: ComRemote
-    url: https://comremote.bcbssc.com/vpn/index.html
   - name: MedVPN
     url: https://cmsvirtualoffice.bcbssc.com/
   - name: TriVPN
     check: "tcp-ping"
     url: https://pgbavirtualoffice.bcbssc.com/
     port: 443
+  - name: MyE-Work
+    url: https://www.mye-work.com/
+  - name: My Health Toolkit
+    url: https://www.myhealthtoolkit.com/
   - name: CrpVPN
     url: https://vpn.bcbssc.com/
+  - name: Member
+    url: member.bcbssc.com/
+  - name: SouthCarolinaBlues
+    url: https://www.southcarolinablues.com/
+    expectedStatusCodes:
+      - 200
+  - name: ComRemote
+    url: https://comremote.bcbssc.com/vpn/index.html
   - name: DRComRemote
     url: https://drcomremote.bcbssc.com/
     __dangerous__disable_verify_peer: true
