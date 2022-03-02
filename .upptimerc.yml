@@ -34,6 +34,8 @@ sites:
       - 200
   - name: ComRemote
     url: https://comremote.bcbssc.com/vpn/index.html
+  - name: DMECompetitiveBid
+    url: https://dmecompetitivebid.com/
   - name: DRComRemote
     url: https://drcomremote.bcbssc.com/
     __dangerous__disable_verify_peer: true
