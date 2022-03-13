@@ -61,19 +61,19 @@
     "url": "https://palmettogba.com/",
     "icon": "https://favicons.githubusercontent.com/palmettogba.com",
     "slug": "hosted-palmetto-gba",
-    "status": "up",
-    "uptime": "89.15%",
-    "uptimeDay": "76.88%",
-    "uptimeWeek": "76.77%",
-    "uptimeMonth": "89.15%",
-    "uptimeYear": "89.15%",
+    "status": "down",
+    "uptime": "89.23%",
+    "uptimeDay": "76.83%",
+    "uptimeWeek": "76.76%",
+    "uptimeMonth": "89.23%",
+    "uptimeYear": "89.23%",
     "time": 283,
     "timeDay": 303,
     "timeWeek": 270,
     "timeMonth": 283,
     "timeYear": 283,
     "dailyMinutesDown": {
-      "2022-03-13": 300,
+      "2022-03-13": 301,
       "2022-03-12": 355,
       "2022-03-11": 337,
       "2022-03-10": 235,
@@ -83,7 +83,7 @@
       "2022-03-06": 170,
       "2022-03-05": 233,
       "2022-03-04": 171,
-      "2022-03-03": 72
+      "2022-03-03": 49
     }
   },
   {
@@ -256,18 +256,18 @@
     "icon": "https://favicons.githubusercontent.com/dmecompetitivebid.com",
     "slug": "dme-competitive-bid",
     "status": "down",
-    "uptime": "99.57%",
-    "uptimeDay": "95.19%",
-    "uptimeWeek": "99.31%",
-    "uptimeMonth": "99.57%",
-    "uptimeYear": "99.57%",
+    "uptime": "99.48%",
+    "uptimeDay": "94.23%",
+    "uptimeWeek": "99.18%",
+    "uptimeMonth": "99.48%",
+    "uptimeYear": "99.48%",
     "time": 460,
     "timeDay": 520,
     "timeWeek": 477,
     "timeMonth": 460,
     "timeYear": 460,
     "dailyMinutesDown": {
-      "2022-03-13": 69
+      "2022-03-13": 83
     }
   },
   {
@@ -287,7 +287,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-13": 1341,
+      "2022-03-13": 1355,
       "2022-03-12": 1440,
       "2022-03-11": 1440,
       "2022-03-10": 1440,
