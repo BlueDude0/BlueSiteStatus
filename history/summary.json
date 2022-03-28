@@ -61,19 +61,19 @@
     "url": "https://palmettogba.com/",
     "icon": "https://favicons.githubusercontent.com/palmettogba.com",
     "slug": "hosted-palmetto-gba",
-    "status": "up",
-    "uptime": "93.37%",
-    "uptimeDay": "75.71%",
-    "uptimeWeek": "89.41%",
-    "uptimeMonth": "92.69%",
-    "uptimeYear": "93.37%",
+    "status": "down",
+    "uptime": "93.41%",
+    "uptimeDay": "75.66%",
+    "uptimeWeek": "89.40%",
+    "uptimeMonth": "92.73%",
+    "uptimeYear": "93.41%",
     "time": 278,
-    "timeDay": 283,
+    "timeDay": 284,
     "timeWeek": 279,
     "timeMonth": 275,
     "timeYear": 278,
     "dailyMinutesDown": {
-      "2022-03-28": 128,
+      "2022-03-28": 129,
       "2022-03-27": 360,
       "2022-03-26": 372,
       "2022-03-25": 204,
@@ -84,7 +84,7 @@
       "2022-03-16": 323,
       "2022-03-15": 336,
       "2022-03-14": 456,
-      "2022-03-13": 38
+      "2022-03-13": 19
     }
   },
   {
@@ -139,12 +139,12 @@
     "uptime": "99.28%",
     "uptimeDay": "98.47%",
     "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.93%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.28%",
     "time": 533,
     "timeDay": 519,
     "timeWeek": 496,
-    "timeMonth": 553,
+    "timeMonth": 548,
     "timeYear": 533,
     "dailyMinutesDown": {
       "2022-03-27": 22,
@@ -165,7 +165,7 @@
     "time": 337,
     "timeDay": 366,
     "timeWeek": 362,
-    "timeMonth": 337,
+    "timeMonth": 344,
     "timeYear": 337,
     "dailyMinutesDown": {
       "2022-02-28": 231
@@ -200,12 +200,12 @@
     "uptime": "99.23%",
     "uptimeDay": "98.94%",
     "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.94%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.23%",
     "time": 1083,
     "timeDay": 1435,
     "timeWeek": 1252,
-    "timeMonth": 1063,
+    "timeMonth": 1052,
     "timeYear": 1083,
     "dailyMinutesDown": {
       "2022-03-27": 15,
@@ -221,12 +221,12 @@
     "uptime": "99.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.98%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.48%",
     "time": 403,
     "timeDay": 492,
     "timeWeek": 422,
-    "timeMonth": 404,
+    "timeMonth": 399,
     "timeYear": 403,
     "dailyMinutesDown": {
       "2022-02-28": 281
@@ -246,7 +246,7 @@
     "time": 320,
     "timeDay": 277,
     "timeWeek": 275,
-    "timeMonth": 360,
+    "timeMonth": 272,
     "timeYear": 320,
     "dailyMinutesDown": {
       "2022-02-28": 214,
@@ -291,7 +291,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-28": 570,
+      "2022-03-28": 584,
       "2022-03-27": 1440,
       "2022-03-26": 1440,
       "2022-03-25": 1440,
