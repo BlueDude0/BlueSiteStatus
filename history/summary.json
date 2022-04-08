@@ -61,19 +61,19 @@
     "url": "https://palmettogba.com/",
     "icon": "https://favicons.githubusercontent.com/palmettogba.com",
     "slug": "hosted-palmetto-gba",
-    "status": "up",
-    "uptime": "94.56%",
-    "uptimeDay": "67.22%",
-    "uptimeWeek": "75.30%",
-    "uptimeMonth": "92.08%",
-    "uptimeYear": "94.56%",
+    "status": "down",
+    "uptime": "94.71%",
+    "uptimeDay": "67.17%",
+    "uptimeWeek": "75.29%",
+    "uptimeMonth": "92.29%",
+    "uptimeYear": "94.71%",
     "time": 277,
-    "timeDay": 276,
+    "timeDay": 285,
     "timeWeek": 274,
     "timeMonth": 271,
     "timeYear": 277,
     "dailyMinutesDown": {
-      "2022-04-08": 129,
+      "2022-04-08": 130,
       "2022-04-07": 445,
       "2022-04-06": 299,
       "2022-04-05": 422,
@@ -83,7 +83,7 @@
       "2022-04-01": 282,
       "2022-03-31": 358,
       "2022-03-30": 424,
-      "2022-03-29": 149
+      "2022-03-29": 56
     }
   },
   {
@@ -292,7 +292,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-08": 284,
+      "2022-04-08": 298,
       "2022-04-07": 1440,
       "2022-04-06": 1440,
       "2022-04-05": 1440,
