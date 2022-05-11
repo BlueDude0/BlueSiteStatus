@@ -64,9 +64,9 @@
     "slug": "hosted-palmetto-gba",
     "status": "up",
     "uptime": "97.16%",
-    "uptimeDay": "94.61%",
-    "uptimeWeek": "96.19%",
-    "uptimeMonth": "92.81%",
+    "uptimeDay": "95.27%",
+    "uptimeWeek": "96.29%",
+    "uptimeMonth": "92.79%",
     "uptimeYear": "97.16%",
     "time": 275,
     "timeDay": 353,
@@ -74,7 +74,7 @@
     "timeMonth": 273,
     "timeYear": 275,
     "dailyMinutesDown": {
-      "2022-05-10": 78,
+      "2022-05-10": 68,
       "2022-05-09": 20,
       "2022-05-08": 98,
       "2022-05-07": 95,
@@ -92,7 +92,8 @@
       "2022-04-24": 183,
       "2022-04-23": 81,
       "2022-04-22": 206,
-      "2022-04-21": 170
+      "2022-04-21": 170,
+      "2022-04-20": 19
     }
   },
   {
@@ -249,11 +250,11 @@
     "icon": "https://favicons.githubusercontent.com/comremote.bcbssc.com",
     "slug": "com-remote",
     "status": "up",
-    "uptime": "99.66%",
+    "uptime": "99.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.66%",
+    "uptimeYear": "99.67%",
     "time": 289,
     "timeDay": 288,
     "timeWeek": 230,
@@ -306,7 +307,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-05-10": 1439,
+      "2022-05-11": 87,
+      "2022-05-10": 1440,
       "2022-05-09": 1440,
       "2022-05-08": 1440,
       "2022-05-07": 1440,
