@@ -65,19 +65,19 @@
     "url": "https://palmettogba.com/",
     "icon": "https://favicons.githubusercontent.com/palmettogba.com",
     "slug": "hosted-palmetto-gba",
-    "status": "down",
+    "status": "up",
     "uptime": "98.76%",
-    "uptimeDay": "98.63%",
-    "uptimeWeek": "97.07%",
-    "uptimeMonth": "95.81%",
+    "uptimeDay": "97.94%",
+    "uptimeWeek": "96.97%",
+    "uptimeMonth": "95.79%",
     "uptimeYear": "98.76%",
     "time": 267,
-    "timeDay": 249,
-    "timeWeek": 268,
-    "timeMonth": 243,
+    "timeDay": 272,
+    "timeWeek": 272,
+    "timeMonth": 244,
     "timeYear": 267,
     "dailyMinutesDown": {
-      "2022-08-06": 1,
+      "2022-08-06": 11,
       "2022-08-05": 19,
       "2022-08-04": 29,
       "2022-08-03": 40,
@@ -136,7 +136,7 @@
     "time": 342,
     "timeDay": 238,
     "timeWeek": 306,
-    "timeMonth": 262,
+    "timeMonth": 264,
     "timeYear": 342,
     "dailyMinutesDown": {
       "2022-02-28": 308
@@ -159,7 +159,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-06": 412,
+      "2022-08-06": 423,
       "2022-08-05": 1440,
       "2022-08-04": 1440,
       "2022-08-03": 1440,
@@ -260,7 +260,7 @@
     "time": 486,
     "timeDay": 302,
     "timeWeek": 439,
-    "timeMonth": 355,
+    "timeMonth": 358,
     "timeYear": 486,
     "dailyMinutesDown": {
       "2022-08-01": 236,
@@ -288,7 +288,7 @@
     "time": 292,
     "timeDay": 191,
     "timeWeek": 289,
-    "timeMonth": 235,
+    "timeMonth": 237,
     "timeYear": 292,
     "dailyMinutesDown": {
       "2022-08-01": 236,
@@ -331,7 +331,7 @@
     "time": 955,
     "timeDay": 659,
     "timeWeek": 922,
-    "timeMonth": 782,
+    "timeMonth": 788,
     "timeYear": 955,
     "dailyMinutesDown": {
       "2022-08-01": 236,
@@ -358,7 +358,7 @@
     "time": 341,
     "timeDay": 227,
     "timeWeek": 334,
-    "timeMonth": 262,
+    "timeMonth": 265,
     "timeYear": 341,
     "dailyMinutesDown": {
       "2022-08-01": 236,
@@ -382,7 +382,7 @@
     "time": 245,
     "timeDay": 172,
     "timeWeek": 206,
-    "timeMonth": 177,
+    "timeMonth": 178,
     "timeYear": 245,
     "dailyMinutesDown": {
       "2022-02-28": 214,
@@ -403,7 +403,7 @@
     "time": 421,
     "timeDay": 329,
     "timeWeek": 410,
-    "timeMonth": 345,
+    "timeMonth": 348,
     "timeYear": 421,
     "dailyMinutesDown": {
       "2022-07-25": 273,
@@ -438,7 +438,7 @@
     "timeMonth": 88,
     "timeYear": 88,
     "dailyMinutesDown": {
-      "2022-08-06": 412,
+      "2022-08-06": 423,
       "2022-08-05": 1440,
       "2022-08-04": 1440,
       "2022-08-03": 1374,
