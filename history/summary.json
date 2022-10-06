@@ -65,9 +65,9 @@
     "url": "https://palmettogba.com/",
     "icon": "https://icons.duckduckgo.com/ip3/palmettogba.com.ico",
     "slug": "hosted-palmetto-gba",
-    "status": "up",
+    "status": "down",
     "uptime": "98.86%",
-    "uptimeDay": "86.24%",
+    "uptimeDay": "86.19%",
     "uptimeWeek": "92.61%",
     "uptimeMonth": "91.97%",
     "uptimeYear": "98.86%",
@@ -77,7 +77,7 @@
     "timeMonth": 252,
     "timeYear": 262,
     "dailyMinutesDown": {
-      "2022-10-06": 107,
+      "2022-10-06": 108,
       "2022-10-05": 122,
       "2022-10-04": 188,
       "2022-10-03": 93,
@@ -107,7 +107,7 @@
       "2022-09-08": 148,
       "2022-09-07": 26,
       "2022-09-06": 168,
-      "2022-09-05": 81
+      "2022-09-05": 58
     }
   },
   {
@@ -137,18 +137,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/pgbavirtualoffice.bcbssc.com.ico",
     "slug": "tri-vpn",
     "status": "down",
-    "uptime": "36.60%",
+    "uptime": "36.59%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "36.60%",
+    "uptimeYear": "36.59%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-06": 576,
+      "2022-10-06": 698,
       "2022-10-05": 1440,
       "2022-10-04": 1440,
       "2022-10-03": 1440,
@@ -530,7 +530,7 @@
     "timeMonth": 0,
     "timeYear": 276,
     "dailyMinutesDown": {
-      "2022-10-06": 576,
+      "2022-10-06": 698,
       "2022-10-05": 1440,
       "2022-10-04": 1440,
       "2022-10-03": 1440,
