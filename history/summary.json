@@ -65,19 +65,19 @@
     "url": "https://palmettogba.com/",
     "icon": "https://icons.duckduckgo.com/ip3/palmettogba.com.ico",
     "slug": "hosted-palmetto-gba",
-    "status": "up",
-    "uptime": "99.38%",
-    "uptimeDay": "90.55%",
-    "uptimeWeek": "93.88%",
+    "status": "down",
+    "uptime": "99.39%",
+    "uptimeDay": "91.57%",
+    "uptimeWeek": "94.13%",
     "uptimeMonth": "94.11%",
-    "uptimeYear": "99.38%",
+    "uptimeYear": "99.39%",
     "time": 255,
-    "timeDay": 250,
+    "timeDay": 259,
     "timeWeek": 244,
     "timeMonth": 235,
     "timeYear": 255,
     "dailyMinutesDown": {
-      "2022-12-16": 38,
+      "2022-12-16": 39,
       "2022-12-15": 98,
       "2022-12-14": 56,
       "2022-12-13": 28,
@@ -107,8 +107,7 @@
       "2022-11-19": 89,
       "2022-11-18": 88,
       "2022-11-17": 77,
-      "2022-11-16": 116,
-      "2022-11-15": 21
+      "2022-11-16": 116
     }
   },
   {
@@ -149,7 +148,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-16": 396,
+      "2022-12-16": 465,
       "2022-12-15": 1440,
       "2022-12-14": 1440,
       "2022-12-13": 1440,
@@ -634,7 +633,7 @@
     "timeMonth": 0,
     "timeYear": 276,
     "dailyMinutesDown": {
-      "2022-12-16": 396,
+      "2022-12-16": 465,
       "2022-12-15": 1440,
       "2022-12-14": 1440,
       "2022-12-13": 1440,
