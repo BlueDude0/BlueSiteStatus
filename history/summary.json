@@ -53,7 +53,7 @@
     "time": 470,
     "timeDay": 450,
     "timeWeek": 448,
-    "timeMonth": 464,
+    "timeMonth": 466,
     "timeYear": 470,
     "dailyMinutesDown": {
       "2022-07-19": 30,
@@ -65,19 +65,19 @@
     "url": "https://palmettogba.com/",
     "icon": "https://icons.duckduckgo.com/ip3/palmettogba.com.ico",
     "slug": "hosted-palmetto-gba",
-    "status": "up",
+    "status": "down",
     "uptime": "99.41%",
-    "uptimeDay": "89.06%",
+    "uptimeDay": "89.22%",
     "uptimeWeek": "85.10%",
-    "uptimeMonth": "93.94%",
+    "uptimeMonth": "93.98%",
     "uptimeYear": "99.41%",
     "time": 251,
-    "timeDay": 278,
+    "timeDay": 273,
     "timeWeek": 221,
     "timeMonth": 228,
     "timeYear": 251,
     "dailyMinutesDown": {
-      "2022-12-31": 154,
+      "2022-12-31": 155,
       "2022-12-30": 223,
       "2022-12-29": 369,
       "2022-12-28": 126,
@@ -89,8 +89,7 @@
       "2022-12-22": 96,
       "2022-12-21": 255,
       "2022-12-20": 173,
-      "2022-12-19": 252,
-      "2022-12-18": 15
+      "2022-12-19": 252
     }
   },
   {
@@ -131,7 +130,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-31": 1390,
+      "2022-12-31": 1416,
       "2022-12-30": 1440,
       "2022-12-29": 1440,
       "2022-12-28": 1440,
@@ -379,7 +378,7 @@
     "time": 555,
     "timeDay": 338,
     "timeWeek": 419,
-    "timeMonth": 391,
+    "timeMonth": 394,
     "timeYear": 555,
     "dailyMinutesDown": {
       "2022-12-12": 30,
@@ -423,7 +422,7 @@
     "time": 283,
     "timeDay": 215,
     "timeWeek": 239,
-    "timeMonth": 232,
+    "timeMonth": 233,
     "timeYear": 283,
     "dailyMinutesDown": {
       "2022-11-21": 63,
@@ -468,9 +467,9 @@
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.63%",
     "time": 992,
-    "timeDay": 14835,
+    "timeDay": 666,
     "timeWeek": 4627,
-    "timeMonth": 1515,
+    "timeMonth": 1539,
     "timeYear": 992,
     "dailyMinutesDown": {
       "2022-12-12": 53,
@@ -505,9 +504,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.74%",
     "time": 317,
-    "timeDay": 842,
+    "timeDay": 254,
     "timeWeek": 386,
-    "timeMonth": 291,
+    "timeMonth": 292,
     "timeYear": 317,
     "dailyMinutesDown": {
       "2022-11-21": 63,
@@ -533,9 +532,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.54%",
     "time": 234,
-    "timeDay": 465,
+    "timeDay": 323,
     "timeWeek": 307,
-    "timeMonth": 331,
+    "timeMonth": 336,
     "timeYear": 234,
     "dailyMinutesDown": {
       "2022-09-11": 16,
@@ -558,9 +557,9 @@
     "uptimeMonth": "97.54%",
     "uptimeYear": "98.01%",
     "time": 385,
-    "timeDay": 370,
+    "timeDay": 302,
     "timeWeek": 286,
-    "timeMonth": 325,
+    "timeMonth": 327,
     "timeYear": 385,
     "dailyMinutesDown": {
       "2022-12-26": 140,
@@ -635,7 +634,7 @@
     "timeMonth": 0,
     "timeYear": 276,
     "dailyMinutesDown": {
-      "2022-12-31": 1390,
+      "2022-12-31": 1416,
       "2022-12-30": 1440,
       "2022-12-29": 1440,
       "2022-12-28": 1440,
