@@ -65,18 +65,19 @@
     "url": "https://palmettogba.com/",
     "icon": "https://icons.duckduckgo.com/ip3/palmettogba.com.ico",
     "slug": "hosted-palmetto-gba",
-    "status": "up",
-    "uptime": "99.39%",
-    "uptimeDay": "75.84%",
-    "uptimeWeek": "84.49%",
-    "uptimeMonth": "93.76%",
-    "uptimeYear": "99.39%",
+    "status": "down",
+    "uptime": "99.41%",
+    "uptimeDay": "75.99%",
+    "uptimeWeek": "84.54%",
+    "uptimeMonth": "93.90%",
+    "uptimeYear": "99.41%",
     "time": 250,
     "timeDay": 184,
     "timeWeek": 213,
     "timeMonth": 225,
     "timeYear": 250,
     "dailyMinutesDown": {
+      "2023-01-02": 1,
       "2023-01-01": 348,
       "2022-12-31": 154,
       "2022-12-30": 223,
@@ -89,7 +90,7 @@
       "2022-12-23": 253,
       "2022-12-22": 96,
       "2022-12-21": 255,
-      "2022-12-20": 173
+      "2022-12-20": 111
     }
   },
   {
@@ -130,7 +131,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-02": 66,
+      "2023-01-02": 72,
       "2023-01-01": 1440,
       "2022-12-31": 1440,
       "2022-12-30": 1440,
@@ -554,9 +555,9 @@
     "slug": "dme-competitive-bid",
     "status": "down",
     "uptime": "97.97%",
-    "uptimeDay": "86.62%",
+    "uptimeDay": "86.20%",
     "uptimeWeek": "97.36%",
-    "uptimeMonth": "97.10%",
+    "uptimeMonth": "97.09%",
     "uptimeYear": "97.97%",
     "time": 385,
     "timeDay": 0,
@@ -564,7 +565,7 @@
     "timeMonth": 329,
     "timeYear": 385,
     "dailyMinutesDown": {
-      "2023-01-02": 66,
+      "2023-01-02": 72,
       "2023-01-01": 127,
       "2022-12-26": 140,
       "2022-12-25": 126,
@@ -638,7 +639,7 @@
     "timeMonth": 0,
     "timeYear": 276,
     "dailyMinutesDown": {
-      "2023-01-02": 66,
+      "2023-01-02": 72,
       "2023-01-01": 1440,
       "2022-12-31": 1440,
       "2022-12-30": 1440,
