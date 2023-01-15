@@ -73,7 +73,7 @@
     "uptimeYear": "99.45%",
     "time": 247,
     "timeDay": 192,
-    "timeWeek": 211,
+    "timeWeek": 209,
     "timeMonth": 217,
     "timeYear": 247,
     "dailyMinutesDown": {
@@ -131,7 +131,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-15": 1285,
+      "2023-01-15": 1315,
       "2023-01-14": 1440,
       "2023-01-13": 1440,
       "2023-01-12": 1440,
@@ -573,9 +573,9 @@
     "url": "https://dmecompetitivebid.com/",
     "icon": "https://icons.duckduckgo.com/ip3/dmecompetitivebid.com.ico",
     "slug": "dme-competitive-bid",
-    "status": "up",
+    "status": "down",
     "uptime": "97.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.93%",
     "uptimeWeek": "97.29%",
     "uptimeMonth": "97.52%",
     "uptimeYear": "97.99%",
@@ -585,6 +585,7 @@
     "timeMonth": 337,
     "timeYear": 383,
     "dailyMinutesDown": {
+      "2023-01-15": 1,
       "2023-01-09": 147,
       "2023-01-08": 125,
       "2023-01-02": 138,
@@ -661,7 +662,7 @@
     "timeMonth": 532,
     "timeYear": 343,
     "dailyMinutesDown": {
-      "2023-01-15": 1285,
+      "2023-01-15": 1315,
       "2023-01-14": 1440,
       "2023-01-13": 880,
       "2023-01-12": 894,
