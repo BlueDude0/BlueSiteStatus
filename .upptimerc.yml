@@ -40,6 +40,14 @@ sites:
     url: https://drcomremote.bcbssc.com/
     __dangerous__disable_verify_peer: true
     method: POST
+  - name: DRTriRemote
+    url: https://drtriremote.bcbssc.com/
+    __dangerous__disable_verify_peer: true
+    method: POST
+  - name: DRMedRemote
+    url: https://drmedremote.bcbssc.com/
+    __dangerous__disable_verify_peer: true
+    method: POST
   - name: Test Broken Site
     url: https://thissitedoesnotexist555.koj.co
 
