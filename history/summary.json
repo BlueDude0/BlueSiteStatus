@@ -65,11 +65,11 @@
     "url": "https://palmettogba.com/",
     "icon": "https://icons.duckduckgo.com/ip3/palmettogba.com.ico",
     "slug": "hosted-palmetto-gba",
-    "status": "up",
+    "status": "down",
     "uptime": "97.90%",
-    "uptimeDay": "53.05%",
-    "uptimeWeek": "21.95%",
-    "uptimeMonth": "76.85%",
+    "uptimeDay": "62.31%",
+    "uptimeWeek": "22.27%",
+    "uptimeMonth": "76.93%",
     "uptimeYear": "97.90%",
     "time": 247,
     "timeDay": 210,
@@ -96,7 +96,7 @@
       "2023-01-07": 245,
       "2023-01-06": 107,
       "2023-01-05": 156,
-      "2023-01-04": 224
+      "2023-01-04": 187
     }
   },
   {
@@ -137,7 +137,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-23": 875,
+      "2023-01-23": 1009,
       "2023-01-22": 1440,
       "2023-01-21": 1440,
       "2023-01-20": 1440,
@@ -668,11 +668,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/drcomremote.bcbssc.com.ico",
     "slug": "dr-com-remote",
     "status": "up",
-    "uptime": "4.90%",
+    "uptime": "4.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "91.08%",
-    "uptimeMonth": "25.34%",
-    "uptimeYear": "4.90%",
+    "uptimeMonth": "25.64%",
+    "uptimeYear": "4.93%",
     "time": 338,
     "timeDay": 331,
     "timeWeek": 243,
