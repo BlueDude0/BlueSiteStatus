@@ -14,7 +14,7 @@
     "timeDay": 87,
     "timeWeek": 86,
     "timeMonth": 107,
-    "timeYear": 107,
+    "timeYear": 104,
     "dailyMinutesDown": {
       "2022-04-13": 21
     }
@@ -52,7 +52,7 @@
     "timeDay": 651,
     "timeWeek": 556,
     "timeMonth": 494,
-    "timeYear": 472,
+    "timeYear": 470,
     "dailyMinutesDown": {
       "2022-07-19": 30,
       "2022-05-26": 351
@@ -63,18 +63,19 @@
     "url": "https://palmettogba.com/",
     "icon": "https://icons.duckduckgo.com/ip3/palmettogba.com.ico",
     "slug": "hosted-palmetto-gba",
-    "status": "up",
+    "status": "down",
     "uptime": "99.39%",
-    "uptimeDay": "81.95%",
-    "uptimeWeek": "83.44%",
-    "uptimeMonth": "92.55%",
+    "uptimeDay": "90.84%",
+    "uptimeWeek": "83.49%",
+    "uptimeMonth": "92.59%",
     "uptimeYear": "99.38%",
     "time": 243,
-    "timeDay": 263,
-    "timeWeek": 225,
-    "timeMonth": 225,
+    "timeDay": 257,
+    "timeWeek": 227,
+    "timeMonth": 226,
     "timeYear": 242,
     "dailyMinutesDown": {
+      "2023-03-01": 2,
       "2023-02-28": 338,
       "2023-02-27": 315,
       "2023-02-26": 108,
@@ -89,8 +90,7 @@
       "2023-02-17": 219,
       "2023-02-16": 246,
       "2023-02-15": 200,
-      "2023-02-14": 284,
-      "2023-02-13": 19
+      "2023-02-14": 284
     }
   },
   {
@@ -108,7 +108,7 @@
     "timeDay": 465,
     "timeWeek": 361,
     "timeMonth": 315,
-    "timeYear": 308,
+    "timeYear": 306,
     "dailyMinutesDown": {
       "2022-09-12": 92
     }
@@ -119,18 +119,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/pgbavirtualoffice.bcbssc.com.ico",
     "slug": "tri-vpn",
     "status": "down",
-    "uptime": "22.24%",
+    "uptime": "22.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "21.24%",
+    "uptimeYear": "21.22%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-01": 79,
+      "2023-03-01": 275,
       "2023-02-28": 1440,
       "2023-02-27": 1440,
       "2023-02-26": 1440,
@@ -435,7 +435,7 @@
     "timeDay": 366,
     "timeWeek": 319,
     "timeMonth": 305,
-    "timeYear": 517,
+    "timeYear": 516,
     "dailyMinutesDown": {
       "2023-01-13": 152,
       "2023-01-12": 88,
@@ -483,7 +483,7 @@
     "timeDay": 360,
     "timeWeek": 394,
     "timeMonth": 292,
-    "timeYear": 278,
+    "timeYear": 276,
     "dailyMinutesDown": {
       "2022-11-21": 63,
       "2022-11-20": 106,
@@ -508,7 +508,7 @@
     "timeDay": 426,
     "timeWeek": 348,
     "timeMonth": 306,
-    "timeYear": 296,
+    "timeYear": 295,
     "dailyMinutesDown": {
       "2022-06-15": 25
     }
@@ -528,7 +528,7 @@
     "timeDay": 1044,
     "timeWeek": 935,
     "timeMonth": 884,
-    "timeYear": 957,
+    "timeYear": 954,
     "dailyMinutesDown": {
       "2023-02-12": 20,
       "2023-01-09": 107,
@@ -567,7 +567,7 @@
     "timeDay": 463,
     "timeWeek": 375,
     "timeMonth": 318,
-    "timeYear": 308,
+    "timeYear": 306,
     "dailyMinutesDown": {
       "2022-11-21": 63,
       "2022-11-20": 106,
@@ -594,7 +594,7 @@
     "timeDay": 636,
     "timeWeek": 525,
     "timeMonth": 457,
-    "timeYear": 252,
+    "timeYear": 251,
     "dailyMinutesDown": {
       "2022-09-11": 16,
       "2022-08-30": 107,
@@ -709,7 +709,7 @@
     "timeMonth": 0,
     "timeYear": 350,
     "dailyMinutesDown": {
-      "2023-03-01": 79,
+      "2023-03-01": 276,
       "2023-02-28": 1440,
       "2023-02-27": 1440,
       "2023-02-26": 1440,
@@ -1069,18 +1069,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/drtriremote.bcbssc.com.ico",
     "slug": "dr-tri-remote",
     "status": "down",
-    "uptime": "15.47%",
+    "uptime": "15.41%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "15.47%",
+    "uptimeYear": "15.41%",
     "time": 386,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 386,
     "dailyMinutesDown": {
-      "2023-03-01": 79,
+      "2023-03-01": 276,
       "2023-02-28": 1440,
       "2023-02-27": 1440,
       "2023-02-26": 1440,
@@ -1121,18 +1121,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/drmedremote.bcbssc.com.ico",
     "slug": "dr-med-remote",
     "status": "down",
-    "uptime": "15.47%",
+    "uptime": "15.41%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "15.47%",
+    "uptimeYear": "15.41%",
     "time": 379,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 379,
     "dailyMinutesDown": {
-      "2023-03-01": 79,
+      "2023-03-01": 276,
       "2023-02-28": 1440,
       "2023-02-27": 1440,
       "2023-02-26": 1440,
