@@ -13,7 +13,7 @@
     "time": 105,
     "timeDay": 163,
     "timeWeek": 103,
-    "timeMonth": 100,
+    "timeMonth": 101,
     "timeYear": 101,
     "dailyMinutesDown": {
       "2022-04-13": 21
@@ -51,7 +51,7 @@
     "time": 474,
     "timeDay": 521,
     "timeWeek": 495,
-    "timeMonth": 497,
+    "timeMonth": 502,
     "timeYear": 469,
     "dailyMinutesDown": {
       "2022-07-19": 30,
@@ -63,11 +63,11 @@
     "url": "https://palmettogba.com/",
     "icon": "https://icons.duckduckgo.com/ip3/palmettogba.com.ico",
     "slug": "hosted-palmetto-gba",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "88.24%",
-    "uptimeWeek": "88.04%",
-    "uptimeMonth": "93.73%",
+    "uptimeDay": "88.99%",
+    "uptimeWeek": "88.15%",
+    "uptimeMonth": "93.75%",
     "uptimeYear": "99.48%",
     "time": 234,
     "timeDay": 243,
@@ -75,7 +75,7 @@
     "timeMonth": 220,
     "timeYear": 234,
     "dailyMinutesDown": {
-      "2023-04-02": 161,
+      "2023-04-02": 150,
       "2023-04-01": 138,
       "2023-03-31": 329,
       "2023-03-30": 165,
@@ -100,17 +100,17 @@
     "slug": "med-vpn",
     "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "91.45%",
-    "uptimeWeek": "98.78%",
-    "uptimeMonth": "99.72%",
+    "uptimeDay": "91.18%",
+    "uptimeWeek": "98.74%",
+    "uptimeMonth": "99.71%",
     "uptimeYear": "99.96%",
     "time": 311,
     "timeDay": 0,
     "timeWeek": 294,
-    "timeMonth": 314,
+    "timeMonth": 318,
     "timeYear": 298,
     "dailyMinutesDown": {
-      "2023-04-02": 123,
+      "2023-04-02": 127,
       "2022-09-12": 92
     }
   },
@@ -131,7 +131,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-02": 1390,
+      "2023-04-02": 1394,
       "2023-04-01": 1440,
       "2023-03-31": 1440,
       "2023-03-30": 1440,
@@ -467,7 +467,7 @@
     "time": 498,
     "timeDay": 285,
     "timeWeek": 265,
-    "timeMonth": 264,
+    "timeMonth": 269,
     "timeYear": 493,
     "dailyMinutesDown": {
       "2023-03-13": 69,
@@ -515,7 +515,7 @@
     "time": 278,
     "timeDay": 301,
     "timeWeek": 264,
-    "timeMonth": 265,
+    "timeMonth": 269,
     "timeYear": 269,
     "dailyMinutesDown": {
       "2023-03-13": 69,
@@ -541,7 +541,7 @@
     "time": 299,
     "timeDay": 325,
     "timeWeek": 293,
-    "timeMonth": 301,
+    "timeMonth": 304,
     "timeYear": 286,
     "dailyMinutesDown": {
       "2022-06-15": 25
@@ -561,7 +561,7 @@
     "time": 980,
     "timeDay": 981,
     "timeWeek": 2100,
-    "timeMonth": 1190,
+    "timeMonth": 1209,
     "timeYear": 966,
     "dailyMinutesDown": {
       "2023-03-12": 15,
@@ -600,7 +600,7 @@
     "time": 312,
     "timeDay": 331,
     "timeWeek": 291,
-    "timeMonth": 306,
+    "timeMonth": 309,
     "timeYear": 297,
     "dailyMinutesDown": {
       "2023-03-13": 69,
@@ -628,7 +628,7 @@
     "time": 274,
     "timeDay": 432,
     "timeWeek": 429,
-    "timeMonth": 450,
+    "timeMonth": 456,
     "timeYear": 267,
     "dailyMinutesDown": {
       "2022-09-11": 16,
@@ -644,17 +644,17 @@
     "slug": "dme-competitive-bid",
     "status": "down",
     "uptime": "97.80%",
-    "uptimeDay": "90.49%",
+    "uptimeDay": "90.21%",
     "uptimeWeek": "97.30%",
-    "uptimeMonth": "97.07%",
+    "uptimeMonth": "97.06%",
     "uptimeYear": "97.77%",
     "time": 380,
     "timeDay": 0,
     "timeWeek": 373,
-    "timeMonth": 361,
+    "timeMonth": 363,
     "timeYear": 373,
     "dailyMinutesDown": {
-      "2023-04-02": 137,
+      "2023-04-02": 141,
       "2023-03-27": 86,
       "2023-03-26": 185,
       "2023-03-20": 106,
@@ -751,7 +751,7 @@
     "timeMonth": 0,
     "timeYear": 350,
     "dailyMinutesDown": {
-      "2023-04-02": 1391,
+      "2023-04-02": 1395,
       "2023-04-01": 1440,
       "2023-03-31": 1440,
       "2023-03-30": 1440,
@@ -1122,7 +1122,7 @@
     "timeMonth": 0,
     "timeYear": 386,
     "dailyMinutesDown": {
-      "2023-04-02": 1391,
+      "2023-04-02": 1395,
       "2023-04-01": 1440,
       "2023-03-31": 1440,
       "2023-03-30": 1440,
@@ -1206,7 +1206,7 @@
     "timeMonth": 0,
     "timeYear": 379,
     "dailyMinutesDown": {
-      "2023-04-02": 1391,
+      "2023-04-02": 1395,
       "2023-04-01": 1440,
       "2023-03-31": 1440,
       "2023-03-30": 1440,
