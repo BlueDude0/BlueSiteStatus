@@ -61,11 +61,11 @@
     "url": "https://palmettogba.com/",
     "icon": "https://icons.duckduckgo.com/ip3/palmettogba.com.ico",
     "slug": "hosted-palmetto-gba",
-    "status": "up",
-    "uptime": "99.53%",
-    "uptimeDay": "68.52%",
-    "uptimeWeek": "85.11%",
-    "uptimeMonth": "93.64%",
+    "status": "down",
+    "uptime": "99.54%",
+    "uptimeDay": "68.39%",
+    "uptimeWeek": "85.10%",
+    "uptimeMonth": "93.67%",
     "uptimeYear": "99.47%",
     "time": 231,
     "timeDay": 173,
@@ -73,7 +73,7 @@
     "timeMonth": 209,
     "timeYear": 230,
     "dailyMinutesDown": {
-      "2023-04-14": 18,
+      "2023-04-14": 20,
       "2023-04-13": 518,
       "2023-04-12": 199,
       "2023-04-11": 188,
@@ -87,7 +87,7 @@
       "2023-04-03": 148,
       "2023-04-02": 148,
       "2023-04-01": 138,
-      "2023-03-31": 184
+      "2023-03-31": 169
     }
   },
   {
@@ -118,7 +118,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/pgbavirtualoffice.bcbssc.com.ico",
     "slug": "tri-vpn",
     "status": "down",
-    "uptime": "19.88%",
+    "uptime": "19.87%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -129,7 +129,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-14": 320,
+      "2023-04-14": 341,
       "2023-04-13": 1440,
       "2023-04-12": 1440,
       "2023-04-11": 1440,
@@ -761,7 +761,7 @@
     "timeMonth": 0,
     "timeYear": 350,
     "dailyMinutesDown": {
-      "2023-04-14": 321,
+      "2023-04-14": 341,
       "2023-04-13": 1440,
       "2023-04-12": 1440,
       "2023-04-11": 1440,
@@ -1132,7 +1132,7 @@
     "timeMonth": 0,
     "timeYear": 386,
     "dailyMinutesDown": {
-      "2023-04-14": 321,
+      "2023-04-14": 341,
       "2023-04-13": 1440,
       "2023-04-12": 1440,
       "2023-04-11": 1440,
@@ -1228,7 +1228,7 @@
     "timeMonth": 0,
     "timeYear": 379,
     "dailyMinutesDown": {
-      "2023-04-14": 321,
+      "2023-04-14": 341,
       "2023-04-13": 1440,
       "2023-04-12": 1440,
       "2023-04-11": 1440,
