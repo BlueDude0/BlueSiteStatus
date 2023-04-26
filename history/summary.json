@@ -61,11 +61,11 @@
     "url": "https://palmettogba.com/",
     "icon": "https://icons.duckduckgo.com/ip3/palmettogba.com.ico",
     "slug": "hosted-palmetto-gba",
-    "status": "up",
+    "status": "down",
     "uptime": "99.54%",
-    "uptimeDay": "91.67%",
-    "uptimeWeek": "90.33%",
-    "uptimeMonth": "93.50%",
+    "uptimeDay": "91.55%",
+    "uptimeWeek": "90.32%",
+    "uptimeMonth": "93.56%",
     "uptimeYear": "99.46%",
     "time": 228,
     "timeDay": 176,
@@ -73,7 +73,7 @@
     "timeMonth": 210,
     "timeYear": 227,
     "dailyMinutesDown": {
-      "2023-04-26": 45,
+      "2023-04-26": 47,
       "2023-04-25": 75,
       "2023-04-24": 104,
       "2023-04-23": 213,
@@ -88,8 +88,7 @@
       "2023-04-14": 188,
       "2023-04-13": 518,
       "2023-04-12": 199,
-      "2023-04-11": 188,
-      "2023-04-10": 26
+      "2023-04-11": 188
     }
   },
   {
@@ -120,18 +119,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/pgbavirtualoffice.bcbssc.com.ico",
     "slug": "tri-vpn",
     "status": "down",
-    "uptime": "19.32%",
+    "uptime": "19.31%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "5.97%",
+    "uptimeYear": "5.96%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-26": 387,
+      "2023-04-26": 409,
       "2023-04-25": 1440,
       "2023-04-24": 1440,
       "2023-04-23": 1440,
@@ -775,7 +774,7 @@
     "timeMonth": 0,
     "timeYear": 350,
     "dailyMinutesDown": {
-      "2023-04-26": 387,
+      "2023-04-26": 409,
       "2023-04-25": 1440,
       "2023-04-24": 1440,
       "2023-04-23": 1440,
@@ -1146,7 +1145,7 @@
     "timeMonth": 0,
     "timeYear": 386,
     "dailyMinutesDown": {
-      "2023-04-26": 387,
+      "2023-04-26": 409,
       "2023-04-25": 1440,
       "2023-04-24": 1440,
       "2023-04-23": 1440,
@@ -1254,7 +1253,7 @@
     "timeMonth": 0,
     "timeYear": 379,
     "dailyMinutesDown": {
-      "2023-04-26": 387,
+      "2023-04-26": 409,
       "2023-04-25": 1440,
       "2023-04-24": 1440,
       "2023-04-23": 1440,
