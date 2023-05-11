@@ -61,19 +61,19 @@
     "url": "https://palmettogba.com/",
     "icon": "https://icons.duckduckgo.com/ip3/palmettogba.com.ico",
     "slug": "hosted-palmetto-gba",
-    "status": "up",
+    "status": "down",
     "uptime": "99.52%",
-    "uptimeDay": "89.20%",
-    "uptimeWeek": "87.45%",
-    "uptimeMonth": "93.03%",
+    "uptimeDay": "89.08%",
+    "uptimeWeek": "87.48%",
+    "uptimeMonth": "93.08%",
     "uptimeYear": "99.42%",
     "time": 225,
-    "timeDay": 172,
-    "timeWeek": 195,
+    "timeDay": 168,
+    "timeWeek": 194,
     "timeMonth": 204,
     "timeYear": 223,
     "dailyMinutesDown": {
-      "2023-05-11": 17,
+      "2023-05-11": 19,
       "2023-05-10": 211,
       "2023-05-09": 176,
       "2023-05-08": 244,
@@ -88,7 +88,7 @@
       "2023-04-29": 193,
       "2023-04-28": 219,
       "2023-04-27": 222,
-      "2023-04-26": 62
+      "2023-04-26": 38
     }
   },
   {
@@ -134,7 +134,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-11": 202,
+      "2023-05-11": 223,
       "2023-05-10": 1440,
       "2023-05-09": 1440,
       "2023-05-08": 1440,
@@ -662,7 +662,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/comremote.bcbssc.com.ico",
     "slug": "com-remote",
     "status": "up",
-    "uptime": "99.67%",
+    "uptime": "99.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -800,7 +800,7 @@
     "timeMonth": 0,
     "timeYear": 350,
     "dailyMinutesDown": {
-      "2023-05-11": 203,
+      "2023-05-11": 223,
       "2023-05-10": 1440,
       "2023-05-09": 1440,
       "2023-05-08": 1440,
@@ -1171,7 +1171,7 @@
     "timeMonth": 0,
     "timeYear": 386,
     "dailyMinutesDown": {
-      "2023-05-11": 203,
+      "2023-05-11": 223,
       "2023-05-10": 1440,
       "2023-05-09": 1440,
       "2023-05-08": 1440,
@@ -1294,7 +1294,7 @@
     "timeMonth": 0,
     "timeYear": 379,
     "dailyMinutesDown": {
-      "2023-05-11": 203,
+      "2023-05-11": 223,
       "2023-05-10": 1440,
       "2023-05-09": 1440,
       "2023-05-08": 1440,
