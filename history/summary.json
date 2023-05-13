@@ -61,19 +61,19 @@
     "url": "https://palmettogba.com/",
     "icon": "https://icons.duckduckgo.com/ip3/palmettogba.com.ico",
     "slug": "hosted-palmetto-gba",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "87.23%",
-    "uptimeWeek": "87.29%",
-    "uptimeMonth": "93.11%",
+    "uptimeDay": "87.11%",
+    "uptimeWeek": "87.27%",
+    "uptimeMonth": "93.14%",
     "uptimeYear": "99.43%",
     "time": 224,
-    "timeDay": 169,
+    "timeDay": 162,
     "timeWeek": 185,
     "timeMonth": 204,
     "timeYear": 223,
     "dailyMinutesDown": {
-      "2023-05-13": 18,
+      "2023-05-13": 20,
       "2023-05-12": 165,
       "2023-05-11": 103,
       "2023-05-10": 211,
@@ -88,7 +88,7 @@
       "2023-05-01": 311,
       "2023-04-30": 247,
       "2023-04-29": 193,
-      "2023-04-28": 196
+      "2023-04-28": 180
     }
   },
   {
@@ -127,14 +127,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "1.35%",
+    "uptimeYear": "1.33%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-13": 201,
+      "2023-05-13": 283,
       "2023-05-12": 1440,
       "2023-05-11": 1440,
       "2023-05-10": 1440,
@@ -802,7 +802,7 @@
     "timeMonth": 0,
     "timeYear": 350,
     "dailyMinutesDown": {
-      "2023-05-13": 201,
+      "2023-05-13": 283,
       "2023-05-12": 1440,
       "2023-05-11": 1440,
       "2023-05-10": 1440,
@@ -1173,7 +1173,7 @@
     "timeMonth": 0,
     "timeYear": 386,
     "dailyMinutesDown": {
-      "2023-05-13": 201,
+      "2023-05-13": 283,
       "2023-05-12": 1440,
       "2023-05-11": 1440,
       "2023-05-10": 1440,
@@ -1298,7 +1298,7 @@
     "timeMonth": 0,
     "timeYear": 379,
     "dailyMinutesDown": {
-      "2023-05-13": 201,
+      "2023-05-13": 283,
       "2023-05-12": 1440,
       "2023-05-11": 1440,
       "2023-05-10": 1440,
