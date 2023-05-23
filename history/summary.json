@@ -61,19 +61,19 @@
     "url": "https://palmettogba.com/",
     "icon": "https://icons.duckduckgo.com/ip3/palmettogba.com.ico",
     "slug": "hosted-palmetto-gba",
-    "status": "up",
-    "uptime": "99.59%",
-    "uptimeDay": "85.28%",
-    "uptimeWeek": "86.64%",
-    "uptimeMonth": "93.90%",
-    "uptimeYear": "99.49%",
+    "status": "down",
+    "uptime": "99.60%",
+    "uptimeDay": "89.18%",
+    "uptimeWeek": "86.89%",
+    "uptimeMonth": "93.97%",
+    "uptimeYear": "99.50%",
     "time": 222,
-    "timeDay": 195,
-    "timeWeek": 198,
-    "timeMonth": 197,
+    "timeDay": 178,
+    "timeWeek": 200,
+    "timeMonth": 198,
     "timeYear": 221,
     "dailyMinutesDown": {
-      "2023-05-23": 100,
+      "2023-05-23": 102,
       "2023-05-22": 198,
       "2023-05-21": 170,
       "2023-05-20": 196,
@@ -88,7 +88,7 @@
       "2023-05-11": 103,
       "2023-05-10": 211,
       "2023-05-09": 176,
-      "2023-05-08": 134
+      "2023-05-08": 103
     }
   },
   {
@@ -134,7 +134,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-23": 996,
+      "2023-05-23": 1140,
       "2023-05-22": 1440,
       "2023-05-21": 1440,
       "2023-05-20": 1440,
@@ -692,7 +692,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/dmecompetitivebid.com.ico",
     "slug": "dme-competitive-bid",
     "status": "up",
-    "uptime": "97.72%",
+    "uptime": "97.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.02%",
     "uptimeMonth": "96.71%",
@@ -809,7 +809,7 @@
     "timeMonth": 0,
     "timeYear": 350,
     "dailyMinutesDown": {
-      "2023-05-23": 997,
+      "2023-05-23": 1140,
       "2023-05-22": 1440,
       "2023-05-21": 1440,
       "2023-05-20": 1440,
@@ -1180,7 +1180,7 @@
     "timeMonth": 0,
     "timeYear": 386,
     "dailyMinutesDown": {
-      "2023-05-23": 997,
+      "2023-05-23": 1140,
       "2023-05-22": 1440,
       "2023-05-21": 1440,
       "2023-05-20": 1440,
@@ -1315,7 +1315,7 @@
     "timeMonth": 0,
     "timeYear": 379,
     "dailyMinutesDown": {
-      "2023-05-23": 997,
+      "2023-05-23": 1140,
       "2023-05-22": 1440,
       "2023-05-21": 1440,
       "2023-05-20": 1440,
