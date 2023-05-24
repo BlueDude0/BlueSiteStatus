@@ -61,11 +61,11 @@
     "url": "https://palmettogba.com/",
     "icon": "https://icons.duckduckgo.com/ip3/palmettogba.com.ico",
     "slug": "hosted-palmetto-gba",
-    "status": "up",
-    "uptime": "99.57%",
-    "uptimeDay": "77.91%",
-    "uptimeWeek": "85.49%",
-    "uptimeMonth": "93.63%",
+    "status": "down",
+    "uptime": "99.58%",
+    "uptimeDay": "77.79%",
+    "uptimeWeek": "85.65%",
+    "uptimeMonth": "93.67%",
     "uptimeYear": "99.47%",
     "time": 222,
     "timeDay": 182,
@@ -73,7 +73,7 @@
     "timeMonth": 197,
     "timeYear": 221,
     "dailyMinutesDown": {
-      "2023-05-24": 254,
+      "2023-05-24": 256,
       "2023-05-23": 163,
       "2023-05-22": 198,
       "2023-05-21": 170,
@@ -88,7 +88,7 @@
       "2023-05-12": 165,
       "2023-05-11": 103,
       "2023-05-10": 211,
-      "2023-05-09": 112
+      "2023-05-09": 92
     }
   },
   {
@@ -134,7 +134,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-24": 1095,
+      "2023-05-24": 1131,
       "2023-05-23": 1440,
       "2023-05-22": 1440,
       "2023-05-21": 1440,
@@ -798,7 +798,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/drcomremote.bcbssc.com.ico",
     "slug": "dr-com-remote",
     "status": "down",
-    "uptime": "4.72%",
+    "uptime": "4.71%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -809,7 +809,7 @@
     "timeMonth": 0,
     "timeYear": 350,
     "dailyMinutesDown": {
-      "2023-05-24": 1095,
+      "2023-05-24": 1131,
       "2023-05-23": 1440,
       "2023-05-22": 1440,
       "2023-05-21": 1440,
@@ -1180,7 +1180,7 @@
     "timeMonth": 0,
     "timeYear": 386,
     "dailyMinutesDown": {
-      "2023-05-24": 1095,
+      "2023-05-24": 1131,
       "2023-05-23": 1440,
       "2023-05-22": 1440,
       "2023-05-21": 1440,
@@ -1316,7 +1316,7 @@
     "timeMonth": 0,
     "timeYear": 379,
     "dailyMinutesDown": {
-      "2023-05-24": 1095,
+      "2023-05-24": 1131,
       "2023-05-23": 1440,
       "2023-05-22": 1440,
       "2023-05-21": 1440,
