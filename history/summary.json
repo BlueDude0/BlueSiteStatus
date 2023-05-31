@@ -60,18 +60,19 @@
     "url": "https://palmettogba.com/",
     "icon": "https://icons.duckduckgo.com/ip3/palmettogba.com.ico",
     "slug": "hosted-palmetto-gba",
-    "status": "up",
-    "uptime": "99.59%",
-    "uptimeDay": "92.04%",
-    "uptimeWeek": "88.84%",
-    "uptimeMonth": "93.80%",
-    "uptimeYear": "99.48%",
+    "status": "down",
+    "uptime": "99.60%",
+    "uptimeDay": "93.81%",
+    "uptimeWeek": "89.87%",
+    "uptimeMonth": "93.85%",
+    "uptimeYear": "99.49%",
     "time": 221,
-    "timeDay": 186,
-    "timeWeek": 204,
+    "timeDay": 189,
+    "timeWeek": 205,
     "timeMonth": 200,
     "timeYear": 220,
     "dailyMinutesDown": {
+      "2023-05-31": 2,
       "2023-05-30": 179,
       "2023-05-29": 260,
       "2023-05-28": 91,
@@ -86,7 +87,7 @@
       "2023-05-19": 185,
       "2023-05-18": 255,
       "2023-05-17": 193,
-      "2023-05-16": 153
+      "2023-05-16": 128
     }
   },
   {
@@ -132,7 +133,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-31": 74,
+      "2023-05-31": 207,
       "2023-05-30": 1440,
       "2023-05-29": 1440,
       "2023-05-28": 1440,
@@ -690,7 +691,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/dmecompetitivebid.com.ico",
     "slug": "dme-competitive-bid",
     "status": "up",
-    "uptime": "97.71%",
+    "uptime": "97.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "96.97%",
     "uptimeMonth": "96.63%",
@@ -809,7 +810,7 @@
     "timeMonth": 0,
     "timeYear": 350,
     "dailyMinutesDown": {
-      "2023-05-31": 74,
+      "2023-05-31": 207,
       "2023-05-30": 1440,
       "2023-05-29": 1440,
       "2023-05-28": 1440,
@@ -1180,7 +1181,7 @@
     "timeMonth": 0,
     "timeYear": 386,
     "dailyMinutesDown": {
-      "2023-05-31": 74,
+      "2023-05-31": 207,
       "2023-05-30": 1440,
       "2023-05-29": 1440,
       "2023-05-28": 1440,
@@ -1323,7 +1324,7 @@
     "timeMonth": 0,
     "timeYear": 379,
     "dailyMinutesDown": {
-      "2023-05-31": 74,
+      "2023-05-31": 207,
       "2023-05-30": 1440,
       "2023-05-29": 1440,
       "2023-05-28": 1440,
