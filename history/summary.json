@@ -60,19 +60,19 @@
     "url": "https://palmettogba.com/",
     "icon": "https://icons.duckduckgo.com/ip3/palmettogba.com.ico",
     "slug": "hosted-palmetto-gba",
-    "status": "up",
+    "status": "down",
     "uptime": "99.57%",
-    "uptimeDay": "84.89%",
-    "uptimeWeek": "87.72%",
-    "uptimeMonth": "93.35%",
+    "uptimeDay": "84.77%",
+    "uptimeWeek": "87.70%",
+    "uptimeMonth": "93.40%",
     "uptimeYear": "99.45%",
     "time": 219,
-    "timeDay": 207,
+    "timeDay": 206,
     "timeWeek": 198,
     "timeMonth": 195,
     "timeYear": 219,
     "dailyMinutesDown": {
-      "2023-06-08": 196,
+      "2023-06-08": 198,
       "2023-06-07": 290,
       "2023-06-06": 84,
       "2023-06-05": 151,
@@ -88,7 +88,7 @@
       "2023-05-26": 140,
       "2023-05-25": 216,
       "2023-05-24": 254,
-      "2023-05-23": 63
+      "2023-05-23": 38
     }
   },
   {
@@ -134,7 +134,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-08": 1081,
+      "2023-06-08": 1170,
       "2023-06-07": 1440,
       "2023-06-06": 1440,
       "2023-06-05": 1440,
@@ -691,7 +691,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/dmecompetitivebid.com.ico",
     "slug": "dme-competitive-bid",
     "status": "up",
-    "uptime": "97.71%",
+    "uptime": "97.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.17%",
     "uptimeMonth": "97.25%",
@@ -811,7 +811,7 @@
     "timeMonth": 0,
     "timeYear": 350,
     "dailyMinutesDown": {
-      "2023-06-08": 1082,
+      "2023-06-08": 1171,
       "2023-06-07": 1440,
       "2023-06-06": 1440,
       "2023-06-05": 1440,
@@ -1182,7 +1182,7 @@
     "timeMonth": 0,
     "timeYear": 386,
     "dailyMinutesDown": {
-      "2023-06-08": 1082,
+      "2023-06-08": 1171,
       "2023-06-07": 1440,
       "2023-06-06": 1440,
       "2023-06-05": 1440,
@@ -1333,7 +1333,7 @@
     "timeMonth": 0,
     "timeYear": 379,
     "dailyMinutesDown": {
-      "2023-06-08": 1082,
+      "2023-06-08": 1171,
       "2023-06-07": 1440,
       "2023-06-06": 1440,
       "2023-06-05": 1440,
