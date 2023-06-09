@@ -60,19 +60,19 @@
     "url": "https://palmettogba.com/",
     "icon": "https://icons.duckduckgo.com/ip3/palmettogba.com.ico",
     "slug": "hosted-palmetto-gba",
-    "status": "up",
-    "uptime": "99.57%",
-    "uptimeDay": "89.55%",
-    "uptimeWeek": "87.90%",
-    "uptimeMonth": "93.36%",
-    "uptimeYear": "99.45%",
+    "status": "down",
+    "uptime": "99.60%",
+    "uptimeDay": "90.75%",
+    "uptimeWeek": "87.89%",
+    "uptimeMonth": "93.73%",
+    "uptimeYear": "99.48%",
     "time": 219,
-    "timeDay": 194,
+    "timeDay": 187,
     "timeWeek": 196,
-    "timeMonth": 195,
+    "timeMonth": 194,
     "timeYear": 219,
     "dailyMinutesDown": {
-      "2023-06-09": 22,
+      "2023-06-09": 24,
       "2023-06-08": 231,
       "2023-06-07": 290,
       "2023-06-06": 84,
@@ -88,8 +88,7 @@
       "2023-05-27": 61,
       "2023-05-26": 140,
       "2023-05-25": 216,
-      "2023-05-24": 254,
-      "2023-05-23": 3
+      "2023-05-24": 91
     }
   },
   {
@@ -124,7 +123,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/pgbavirtualoffice.bcbssc.com.ico",
     "slug": "tri-vpn",
     "status": "down",
-    "uptime": "17.52%",
+    "uptime": "17.51%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -135,7 +134,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-09": 263,
+      "2023-06-09": 324,
       "2023-06-08": 1440,
       "2023-06-07": 1440,
       "2023-06-06": 1440,
@@ -812,7 +811,7 @@
     "timeMonth": 0,
     "timeYear": 350,
     "dailyMinutesDown": {
-      "2023-06-09": 263,
+      "2023-06-09": 325,
       "2023-06-08": 1440,
       "2023-06-07": 1440,
       "2023-06-06": 1440,
@@ -1183,7 +1182,7 @@
     "timeMonth": 0,
     "timeYear": 386,
     "dailyMinutesDown": {
-      "2023-06-09": 263,
+      "2023-06-09": 325,
       "2023-06-08": 1440,
       "2023-06-07": 1440,
       "2023-06-06": 1440,
@@ -1335,7 +1334,7 @@
     "timeMonth": 0,
     "timeYear": 379,
     "dailyMinutesDown": {
-      "2023-06-09": 263,
+      "2023-06-09": 325,
       "2023-06-08": 1440,
       "2023-06-07": 1440,
       "2023-06-06": 1440,
