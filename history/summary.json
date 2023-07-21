@@ -58,19 +58,19 @@
     "url": "https://palmettogba.com/",
     "icon": "https://icons.duckduckgo.com/ip3/palmettogba.com.ico",
     "slug": "hosted-palmetto-gba",
-    "status": "up",
+    "status": "down",
     "uptime": "99.59%",
-    "uptimeDay": "84.19%",
-    "uptimeWeek": "85.43%",
-    "uptimeMonth": "93.02%",
+    "uptimeDay": "84.85%",
+    "uptimeWeek": "85.41%",
+    "uptimeMonth": "93.06%",
     "uptimeYear": "99.42%",
     "time": 218,
-    "timeDay": 213,
+    "timeDay": 210,
     "timeWeek": 205,
     "timeMonth": 210,
     "timeYear": 217,
     "dailyMinutesDown": {
-      "2023-07-21": 25,
+      "2023-07-21": 27,
       "2023-07-20": 208,
       "2023-07-19": 319,
       "2023-07-18": 166,
@@ -84,7 +84,7 @@
       "2023-07-10": 206,
       "2023-07-09": 365,
       "2023-07-08": 108,
-      "2023-07-07": 121
+      "2023-07-07": 100
     }
   },
   {
@@ -132,7 +132,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-21": 191,
+      "2023-07-21": 206,
       "2023-07-20": 1440,
       "2023-07-19": 1440,
       "2023-07-18": 1440,
@@ -516,7 +516,7 @@
     "timeMonth": 0,
     "timeYear": 457,
     "dailyMinutesDown": {
-      "2023-07-21": 191,
+      "2023-07-21": 206,
       "2023-07-20": 1440,
       "2023-07-19": 1440,
       "2023-07-18": 1440,
@@ -649,7 +649,7 @@
     "timeMonth": 8144,
     "timeYear": 1089,
     "dailyMinutesDown": {
-      "2023-07-21": 191,
+      "2023-07-21": 206,
       "2023-07-20": 1440,
       "2023-07-19": 1440,
       "2023-07-18": 1440,
@@ -711,7 +711,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.southcarolinablues.com.ico",
     "slug": "south-carolina-blues",
     "status": "down",
-    "uptime": "93.04%",
+    "uptime": "93.03%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -722,7 +722,7 @@
     "timeMonth": 0,
     "timeYear": 299,
     "dailyMinutesDown": {
-      "2023-07-21": 191,
+      "2023-07-21": 206,
       "2023-07-20": 1440,
       "2023-07-19": 1440,
       "2023-07-18": 1440,
@@ -932,7 +932,7 @@
     "timeMonth": 0,
     "timeYear": 350,
     "dailyMinutesDown": {
-      "2023-07-21": 191,
+      "2023-07-21": 206,
       "2023-07-20": 1440,
       "2023-07-19": 1440,
       "2023-07-18": 1440,
@@ -1303,7 +1303,7 @@
     "timeMonth": 0,
     "timeYear": 386,
     "dailyMinutesDown": {
-      "2023-07-21": 191,
+      "2023-07-21": 206,
       "2023-07-20": 1440,
       "2023-07-19": 1440,
       "2023-07-18": 1440,
@@ -1497,7 +1497,7 @@
     "timeMonth": 0,
     "timeYear": 379,
     "dailyMinutesDown": {
-      "2023-07-21": 191,
+      "2023-07-21": 206,
       "2023-07-20": 1440,
       "2023-07-19": 1440,
       "2023-07-18": 1440,
