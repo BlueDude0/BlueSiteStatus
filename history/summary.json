@@ -58,11 +58,11 @@
     "url": "https://palmettogba.com/",
     "icon": "https://icons.duckduckgo.com/ip3/palmettogba.com.ico",
     "slug": "hosted-palmetto-gba",
-    "status": "up",
+    "status": "down",
     "uptime": "99.59%",
-    "uptimeDay": "86.30%",
-    "uptimeWeek": "84.12%",
-    "uptimeMonth": "92.91%",
+    "uptimeDay": "86.17%",
+    "uptimeWeek": "84.10%",
+    "uptimeMonth": "92.96%",
     "uptimeYear": "99.41%",
     "time": 217,
     "timeDay": 185,
@@ -70,7 +70,7 @@
     "timeMonth": 214,
     "timeYear": 216,
     "dailyMinutesDown": {
-      "2023-07-28": 167,
+      "2023-07-28": 169,
       "2023-07-27": 208,
       "2023-07-26": 110,
       "2023-07-25": 258,
@@ -84,7 +84,7 @@
       "2023-07-17": 136,
       "2023-07-16": 200,
       "2023-07-15": 260,
-      "2023-07-14": 62
+      "2023-07-14": 39
     }
   },
   {
@@ -132,7 +132,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-28": 914,
+      "2023-07-28": 927,
       "2023-07-27": 1440,
       "2023-07-26": 1440,
       "2023-07-25": 1440,
@@ -505,7 +505,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.mye-work.com.ico",
     "slug": "my-e-work",
     "status": "down",
-    "uptime": "91.47%",
+    "uptime": "91.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -516,7 +516,7 @@
     "timeMonth": 0,
     "timeYear": 458,
     "dailyMinutesDown": {
-      "2023-07-28": 914,
+      "2023-07-28": 927,
       "2023-07-27": 1440,
       "2023-07-26": 1440,
       "2023-07-25": 1440,
@@ -655,7 +655,7 @@
     "timeMonth": 15633,
     "timeYear": 1095,
     "dailyMinutesDown": {
-      "2023-07-28": 914,
+      "2023-07-28": 928,
       "2023-07-27": 1440,
       "2023-07-26": 1440,
       "2023-07-25": 1440,
@@ -723,7 +723,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.southcarolinablues.com.ico",
     "slug": "south-carolina-blues",
     "status": "down",
-    "uptime": "91.71%",
+    "uptime": "91.70%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -734,7 +734,7 @@
     "timeMonth": 0,
     "timeYear": 300,
     "dailyMinutesDown": {
-      "2023-07-28": 914,
+      "2023-07-28": 928,
       "2023-07-27": 1440,
       "2023-07-26": 1440,
       "2023-07-25": 1440,
@@ -951,7 +951,7 @@
     "timeMonth": 0,
     "timeYear": 350,
     "dailyMinutesDown": {
-      "2023-07-28": 914,
+      "2023-07-28": 928,
       "2023-07-27": 1440,
       "2023-07-26": 1440,
       "2023-07-25": 1440,
@@ -1322,7 +1322,7 @@
     "timeMonth": 0,
     "timeYear": 386,
     "dailyMinutesDown": {
-      "2023-07-28": 914,
+      "2023-07-28": 928,
       "2023-07-27": 1440,
       "2023-07-26": 1440,
       "2023-07-25": 1440,
@@ -1523,7 +1523,7 @@
     "timeMonth": 0,
     "timeYear": 379,
     "dailyMinutesDown": {
-      "2023-07-28": 914,
+      "2023-07-28": 928,
       "2023-07-27": 1440,
       "2023-07-26": 1440,
       "2023-07-25": 1440,
