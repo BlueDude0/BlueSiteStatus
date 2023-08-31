@@ -58,15 +58,15 @@
     "url": "https://palmettogba.com/",
     "icon": "https://icons.duckduckgo.com/ip3/palmettogba.com.ico",
     "slug": "hosted-palmetto-gba",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "88.97%",
+    "uptimeDay": "88.94%",
     "uptimeWeek": "88.88%",
-    "uptimeMonth": "94.02%",
-    "uptimeYear": "99.50%",
+    "uptimeMonth": "94.06%",
+    "uptimeYear": "99.51%",
     "time": 216,
     "timeDay": 230,
-    "timeWeek": 200,
+    "timeWeek": 201,
     "timeMonth": 217,
     "timeYear": 215,
     "dailyMinutesDown": {
@@ -84,7 +84,7 @@
       "2023-08-20": 235,
       "2023-08-19": 163,
       "2023-08-18": 315,
-      "2023-08-17": 107
+      "2023-08-17": 88
     }
   },
   {
@@ -133,7 +133,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-31": 870,
+      "2023-08-31": 879,
       "2023-08-30": 1440,
       "2023-08-29": 1440,
       "2023-08-28": 1440,
@@ -517,7 +517,7 @@
     "timeMonth": 0,
     "timeYear": 424,
     "dailyMinutesDown": {
-      "2023-08-31": 870,
+      "2023-08-31": 879,
       "2023-08-30": 1440,
       "2023-08-29": 1440,
       "2023-08-28": 1440,
@@ -684,7 +684,7 @@
     "timeMonth": 16183,
     "timeYear": 1160,
     "dailyMinutesDown": {
-      "2023-08-31": 870,
+      "2023-08-31": 879,
       "2023-08-30": 1440,
       "2023-08-29": 1440,
       "2023-08-28": 1440,
@@ -790,7 +790,7 @@
     "timeMonth": 0,
     "timeYear": 301,
     "dailyMinutesDown": {
-      "2023-08-31": 870,
+      "2023-08-31": 879,
       "2023-08-30": 1440,
       "2023-08-29": 1440,
       "2023-08-28": 1440,
@@ -1033,7 +1033,7 @@
     "uptime": "8.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "91.86%",
+    "uptimeMonth": "91.88%",
     "uptimeYear": "11.48%",
     "time": 329,
     "timeDay": 303,
@@ -1379,7 +1379,7 @@
     "uptime": "11.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "63.99%",
+    "uptimeMonth": "64.01%",
     "uptimeYear": "11.69%",
     "time": 308,
     "timeDay": 318,
