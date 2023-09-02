@@ -58,14 +58,14 @@
     "url": "https://palmettogba.com/",
     "icon": "https://icons.duckduckgo.com/ip3/palmettogba.com.ico",
     "slug": "hosted-palmetto-gba",
-    "status": "up",
-    "uptime": "99.68%",
-    "uptimeDay": "90.36%",
-    "uptimeWeek": "88.50%",
-    "uptimeMonth": "94.18%",
+    "status": "down",
+    "uptime": "99.69%",
+    "uptimeDay": "90.34%",
+    "uptimeWeek": "88.49%",
+    "uptimeMonth": "94.26%",
     "uptimeYear": "99.52%",
     "time": 216,
-    "timeDay": 211,
+    "timeDay": 208,
     "timeWeek": 208,
     "timeMonth": 217,
     "timeYear": 215,
@@ -84,7 +84,7 @@
       "2023-08-21": 164,
       "2023-08-20": 235,
       "2023-08-19": 163,
-      "2023-08-18": 118
+      "2023-08-18": 83
     }
   },
   {
@@ -133,7 +133,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-01": 1430,
+      "2023-09-02": 1,
+      "2023-09-01": 1440,
       "2023-08-31": 1440,
       "2023-08-30": 1440,
       "2023-08-29": 1440,
@@ -496,8 +497,7 @@
       "2022-09-06": 1440,
       "2022-09-05": 1440,
       "2022-09-04": 1440,
-      "2022-09-03": 1440,
-      "2022-09-02": 1440
+      "2022-09-03": 1440
     }
   },
   {
@@ -517,7 +517,8 @@
     "timeMonth": 0,
     "timeYear": 416,
     "dailyMinutesDown": {
-      "2023-09-01": 1430,
+      "2023-09-02": 1,
+      "2023-09-01": 1440,
       "2023-08-31": 1440,
       "2023-08-30": 1440,
       "2023-08-29": 1440,
@@ -685,7 +686,8 @@
     "timeMonth": 16183,
     "timeYear": 1164,
     "dailyMinutesDown": {
-      "2023-09-01": 1431,
+      "2023-09-02": 1,
+      "2023-09-01": 1440,
       "2023-08-31": 1440,
       "2023-08-30": 1440,
       "2023-08-29": 1440,
@@ -781,7 +783,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.southcarolinablues.com.ico",
     "slug": "south-carolina-blues",
     "status": "down",
-    "uptime": "85.92%",
+    "uptime": "85.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -792,7 +794,8 @@
     "timeMonth": 0,
     "timeYear": 302,
     "dailyMinutesDown": {
-      "2023-09-01": 1431,
+      "2023-09-02": 1,
+      "2023-09-01": 1440,
       "2023-08-31": 1440,
       "2023-08-30": 1440,
       "2023-08-29": 1440,
@@ -1036,7 +1039,7 @@
     "uptime": "9.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.43%",
+    "uptimeMonth": "96.45%",
     "uptimeYear": "11.86%",
     "time": 326,
     "timeDay": 366,
@@ -1368,8 +1371,7 @@
       "2022-09-06": 1440,
       "2022-09-05": 1440,
       "2022-09-04": 1440,
-      "2022-09-03": 1440,
-      "2022-09-02": 1440
+      "2022-09-03": 1440
     }
   },
   {
@@ -1381,7 +1383,7 @@
     "uptime": "12.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "68.56%",
+    "uptimeMonth": "68.58%",
     "uptimeYear": "12.24%",
     "time": 303,
     "timeDay": 363,
@@ -1600,7 +1602,7 @@
     "uptimeYear": "99.12%",
     "time": 396,
     "timeDay": 301,
-    "timeWeek": 346,
+    "timeWeek": 348,
     "timeMonth": 396,
     "timeYear": 396,
     "dailyMinutesDown": {
