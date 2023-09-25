@@ -58,19 +58,20 @@
     "url": "https://palmettogba.com/",
     "icon": "https://icons.duckduckgo.com/ip3/palmettogba.com.ico",
     "slug": "hosted-palmetto-gba",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "88.64%",
-    "uptimeWeek": "88.80%",
-    "uptimeMonth": "94.42%",
-    "uptimeYear": "99.53%",
+    "uptimeDay": "89.25%",
+    "uptimeWeek": "88.89%",
+    "uptimeMonth": "94.44%",
+    "uptimeYear": "99.54%",
     "time": 220,
     "timeDay": 201,
     "timeWeek": 274,
     "timeMonth": 253,
     "timeYear": 219,
     "dailyMinutesDown": {
-      "2023-09-24": 163,
+      "2023-09-25": 0,
+      "2023-09-24": 154,
       "2023-09-23": 149,
       "2023-09-22": 119,
       "2023-09-21": 185,
@@ -134,7 +135,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-24": 1432,
+      "2023-09-25": 28,
+      "2023-09-24": 1440,
       "2023-09-23": 1440,
       "2023-09-22": 1440,
       "2023-09-21": 1440,
@@ -497,8 +499,7 @@
       "2022-09-29": 1440,
       "2022-09-28": 1440,
       "2022-09-27": 1440,
-      "2022-09-26": 1440,
-      "2022-09-25": 1440
+      "2022-09-26": 1440
     }
   },
   {
@@ -518,7 +519,8 @@
     "timeMonth": 0,
     "timeYear": 421,
     "dailyMinutesDown": {
-      "2023-09-24": 1432,
+      "2023-09-25": 28,
+      "2023-09-24": 1440,
       "2023-09-23": 1440,
       "2023-09-22": 1440,
       "2023-09-21": 1440,
@@ -633,8 +635,7 @@
       "2022-11-20": 106,
       "2022-10-23": 70,
       "2022-10-09": 83,
-      "2022-09-26": 154,
-      "2022-09-25": 162
+      "2022-09-26": 154
     }
   },
   {
@@ -698,14 +699,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "72.32%",
+    "uptimeYear": "72.31%",
     "time": 1113,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 16183,
     "timeYear": 1193,
     "dailyMinutesDown": {
-      "2023-09-24": 1432,
+      "2023-09-25": 28,
+      "2023-09-24": 1440,
       "2023-09-23": 1440,
       "2023-09-22": 1440,
       "2023-09-21": 1440,
@@ -821,18 +823,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.southcarolinablues.com.ico",
     "slug": "south-carolina-blues",
     "status": "down",
-    "uptime": "82.53%",
+    "uptime": "82.52%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "72.28%",
+    "uptimeYear": "72.27%",
     "time": 295,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 303,
     "dailyMinutesDown": {
-      "2023-09-24": 1432,
+      "2023-09-25": 28,
+      "2023-09-24": 1440,
       "2023-09-23": 1440,
       "2023-09-22": 1440,
       "2023-09-21": 1440,
@@ -971,10 +974,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/dmecompetitivebid.com.ico",
     "slug": "dme-competitive-bid",
     "status": "down",
-    "uptime": "97.61%",
-    "uptimeDay": "87.65%",
+    "uptime": "97.60%",
+    "uptimeDay": "85.15%",
     "uptimeWeek": "97.38%",
-    "uptimeMonth": "97.13%",
+    "uptimeMonth": "97.05%",
     "uptimeYear": "97.11%",
     "time": 369,
     "timeDay": 0,
@@ -982,7 +985,8 @@
     "timeMonth": 361,
     "timeYear": 365,
     "dailyMinutesDown": {
-      "2023-09-24": 178,
+      "2023-09-25": 28,
+      "2023-09-24": 186,
       "2023-09-18": 78,
       "2023-09-17": 180,
       "2023-09-11": 78,
@@ -1086,8 +1090,7 @@
       "2022-10-09": 184,
       "2022-10-03": 141,
       "2022-10-02": 181,
-      "2022-09-26": 155,
-      "2022-09-25": 184
+      "2022-09-26": 155
     }
   },
   {
@@ -1096,11 +1099,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/drcomremote.bcbssc.com.ico",
     "slug": "dr-com-remote",
     "status": "up",
-    "uptime": "12.79%",
+    "uptime": "12.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "18.16%",
+    "uptimeYear": "18.17%",
     "time": 308,
     "timeDay": 79,
     "timeWeek": 319,
@@ -1408,8 +1411,7 @@
       "2022-09-29": 1440,
       "2022-09-28": 1440,
       "2022-09-27": 1440,
-      "2022-09-26": 1440,
-      "2022-09-25": 1440
+      "2022-09-26": 1440
     }
   },
   {
@@ -1641,7 +1643,7 @@
     "time": 397,
     "timeDay": 62,
     "timeWeek": 297,
-    "timeMonth": 364,
+    "timeMonth": 365,
     "timeYear": 397,
     "dailyMinutesDown": {
       "2023-09-06": 131,
