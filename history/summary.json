@@ -58,14 +58,14 @@
     "url": "https://palmettogba.com/",
     "icon": "https://icons.duckduckgo.com/ip3/palmettogba.com.ico",
     "slug": "hosted-palmetto-gba",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "82.28%",
+    "uptimeDay": "82.25%",
     "uptimeWeek": "87.64%",
-    "uptimeMonth": "94.31%",
+    "uptimeMonth": "94.36%",
     "uptimeYear": "99.53%",
     "time": 219,
-    "timeDay": 235,
+    "timeDay": 229,
     "timeWeek": 238,
     "timeMonth": 255,
     "timeYear": 219,
@@ -84,7 +84,7 @@
       "2023-09-15": 156,
       "2023-09-14": 169,
       "2023-09-13": 219,
-      "2023-09-12": 120
+      "2023-09-12": 100
     }
   },
   {
@@ -134,7 +134,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-26": 1212,
+      "2023-09-26": 1226,
       "2023-09-25": 1440,
       "2023-09-24": 1440,
       "2023-09-23": 1440,
@@ -518,7 +518,7 @@
     "timeMonth": 0,
     "timeYear": 422,
     "dailyMinutesDown": {
-      "2023-09-26": 1212,
+      "2023-09-26": 1226,
       "2023-09-25": 1440,
       "2023-09-24": 1440,
       "2023-09-23": 1440,
@@ -705,7 +705,7 @@
     "timeMonth": 16183,
     "timeYear": 1196,
     "dailyMinutesDown": {
-      "2023-09-26": 1213,
+      "2023-09-26": 1226,
       "2023-09-25": 1440,
       "2023-09-24": 1440,
       "2023-09-23": 1440,
@@ -823,7 +823,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.southcarolinablues.com.ico",
     "slug": "south-carolina-blues",
     "status": "down",
-    "uptime": "82.27%",
+    "uptime": "82.26%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -834,7 +834,7 @@
     "timeMonth": 0,
     "timeYear": 302,
     "dailyMinutesDown": {
-      "2023-09-26": 1213,
+      "2023-09-26": 1226,
       "2023-09-25": 1440,
       "2023-09-24": 1440,
       "2023-09-23": 1440,
@@ -1637,7 +1637,7 @@
     "uptime": "99.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.33%",
+    "uptimeMonth": "97.34%",
     "uptimeYear": "99.26%",
     "time": 397,
     "timeDay": 491,
