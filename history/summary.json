@@ -71,17 +71,16 @@
     "slug": "hosted-palmetto-gba",
     "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "97.01%",
-    "uptimeMonth": "97.10%",
-    "uptimeYear": "99.55%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.32%",
+    "uptimeMonth": "97.13%",
+    "uptimeYear": "99.54%",
     "time": 231,
     "timeDay": 227,
     "timeWeek": 228,
     "timeMonth": 224,
     "timeYear": 232,
     "dailyMinutesDown": {
-      "2024-04-09": 10,
       "2024-04-08": 22,
       "2024-04-07": 55,
       "2024-04-06": 21,
@@ -128,7 +127,7 @@
       "2024-02-24": 39,
       "2024-02-23": 17,
       "2024-02-22": 66,
-      "2024-02-21": 31
+      "2024-02-21": 81
     }
   },
   {
@@ -181,7 +180,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-09": 1419,
+      "2024-04-10": 56,
+      "2024-04-09": 1440,
       "2024-04-08": 1440,
       "2024-04-07": 1440,
       "2024-04-06": 1440,
@@ -544,8 +544,7 @@
       "2023-04-15": 1440,
       "2023-04-14": 1440,
       "2023-04-13": 1440,
-      "2023-04-12": 1440,
-      "2023-04-11": 1440
+      "2023-04-12": 1440
     }
   },
   {
@@ -554,18 +553,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.mye-work.com.ico",
     "slug": "my-e-work",
     "status": "down",
-    "uptime": "61.45%",
+    "uptime": "61.44%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "18.08%",
+    "uptimeYear": "18.07%",
     "time": 312,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 294,
     "dailyMinutesDown": {
-      "2024-04-09": 1419,
+      "2024-04-10": 56,
+      "2024-04-09": 1440,
       "2024-04-08": 1440,
       "2024-04-07": 1440,
       "2024-04-06": 1440,
@@ -929,18 +929,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "member",
     "status": "down",
-    "uptime": "61.40%",
+    "uptime": "61.39%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.27%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "18.16%",
+    "uptimeYear": "18.14%",
     "time": 1342,
     "timeDay": 0,
     "timeWeek": 548,
     "timeMonth": 548,
     "timeYear": 1605,
     "dailyMinutesDown": {
-      "2024-04-09": 1419,
+      "2024-04-10": 57,
+      "2024-04-09": 1440,
       "2024-04-08": 1413,
       "2024-04-07": 1440,
       "2024-04-06": 1440,
@@ -1251,7 +1252,7 @@
     "uptime": "63.03%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.29%",
-    "uptimeMonth": "34.59%",
+    "uptimeMonth": "34.77%",
     "uptimeYear": "21.12%",
     "time": 305,
     "timeDay": 149,
@@ -1591,7 +1592,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "96.68%",
     "uptimeMonth": "96.71%",
-    "uptimeYear": "97.20%",
+    "uptimeYear": "97.21%",
     "time": 428,
     "timeDay": 300,
     "timeWeek": 381,
@@ -1713,7 +1714,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/drcomremote.bcbssc.com.ico",
     "slug": "dr-com-remote",
     "status": "down",
-    "uptime": "12.82%",
+    "uptime": "12.81%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1724,7 +1725,8 @@
     "timeMonth": 0,
     "timeYear": 284,
     "dailyMinutesDown": {
-      "2024-04-09": 1419,
+      "2024-04-10": 57,
+      "2024-04-09": 1440,
       "2024-04-08": 1440,
       "2024-04-07": 1440,
       "2024-04-06": 1440,
@@ -2016,8 +2018,7 @@
       "2023-04-15": 1440,
       "2023-04-14": 1440,
       "2023-04-13": 1440,
-      "2023-04-12": 1440,
-      "2023-04-11": 1440
+      "2023-04-12": 1440
     }
   },
   {
@@ -2037,7 +2038,8 @@
     "timeMonth": 0,
     "timeYear": 274,
     "dailyMinutesDown": {
-      "2024-04-09": 1419,
+      "2024-04-10": 57,
+      "2024-04-09": 1440,
       "2024-04-08": 1440,
       "2024-04-07": 1440,
       "2024-04-06": 1440,
@@ -2337,8 +2339,7 @@
       "2023-04-15": 1440,
       "2023-04-14": 1440,
       "2023-04-13": 1440,
-      "2023-04-12": 1440,
-      "2023-04-11": 1440
+      "2023-04-12": 1440
     }
   },
   {
@@ -2347,18 +2348,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/drmedremote.bcbssc.com.ico",
     "slug": "dr-med-remote",
     "status": "down",
-    "uptime": "60.71%",
+    "uptime": "60.70%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "52.31%",
+    "uptimeYear": "52.30%",
     "time": 389,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 389,
     "dailyMinutesDown": {
-      "2024-04-09": 1419,
+      "2024-04-10": 57,
+      "2024-04-09": 1440,
       "2024-04-08": 1440,
       "2024-04-07": 1440,
       "2024-04-06": 1440,
