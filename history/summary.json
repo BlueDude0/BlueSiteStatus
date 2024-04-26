@@ -69,19 +69,19 @@
     "url": "https://palmettogba.com/",
     "icon": "https://icons.duckduckgo.com/ip3/palmettogba.com.ico",
     "slug": "hosted-palmetto-gba",
-    "status": "up",
-    "uptime": "99.79%",
-    "uptimeDay": "97.08%",
-    "uptimeWeek": "95.13%",
+    "status": "down",
+    "uptime": "99.80%",
+    "uptimeDay": "96.95%",
+    "uptimeWeek": "95.11%",
     "uptimeMonth": "96.42%",
-    "uptimeYear": "99.55%",
+    "uptimeYear": "99.56%",
     "time": 234,
     "timeDay": 211,
     "timeWeek": 359,
     "timeMonth": 257,
     "timeYear": 234,
     "dailyMinutesDown": {
-      "2024-04-26": 17,
+      "2024-04-26": 19,
       "2024-04-25": 44,
       "2024-04-24": 76,
       "2024-04-23": 69,
@@ -129,8 +129,7 @@
       "2024-03-10": 19,
       "2024-03-09": 51,
       "2024-03-08": 51,
-      "2024-03-07": 22,
-      "2024-03-06": 19
+      "2024-03-07": 22
     }
   },
   {
@@ -183,7 +182,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-26": 433,
+      "2024-04-26": 446,
       "2024-04-25": 1440,
       "2024-04-24": 1440,
       "2024-04-23": 1440,
@@ -567,7 +566,7 @@
     "timeMonth": 0,
     "timeYear": 304,
     "dailyMinutesDown": {
-      "2024-04-26": 434,
+      "2024-04-26": 446,
       "2024-04-25": 1440,
       "2024-04-24": 1440,
       "2024-04-23": 1440,
@@ -961,7 +960,7 @@
     "timeMonth": 983,
     "timeYear": 1768,
     "dailyMinutesDown": {
-      "2024-04-26": 434,
+      "2024-04-26": 446,
       "2024-04-25": 1440,
       "2024-04-24": 1440,
       "2024-04-23": 1440,
@@ -1289,7 +1288,7 @@
     "uptime": "63.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "88.20%",
+    "uptimeMonth": "88.23%",
     "uptimeYear": "21.12%",
     "time": 313,
     "timeDay": 398,
@@ -1762,7 +1761,7 @@
     "timeMonth": 0,
     "timeYear": 284,
     "dailyMinutesDown": {
-      "2024-04-26": 434,
+      "2024-04-26": 446,
       "2024-04-25": 1440,
       "2024-04-24": 1440,
       "2024-04-23": 1440,
@@ -2075,7 +2074,7 @@
     "timeMonth": 0,
     "timeYear": 274,
     "dailyMinutesDown": {
-      "2024-04-26": 434,
+      "2024-04-26": 447,
       "2024-04-25": 1440,
       "2024-04-24": 1440,
       "2024-04-23": 1440,
@@ -2385,7 +2384,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/drmedremote.bcbssc.com.ico",
     "slug": "dr-med-remote",
     "status": "down",
-    "uptime": "58.56%",
+    "uptime": "58.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -2396,7 +2395,7 @@
     "timeMonth": 0,
     "timeYear": 389,
     "dailyMinutesDown": {
-      "2024-04-26": 434,
+      "2024-04-26": 447,
       "2024-04-25": 1440,
       "2024-04-24": 1440,
       "2024-04-23": 1440,
