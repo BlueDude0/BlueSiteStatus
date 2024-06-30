@@ -185,7 +185,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-30": 68,
+      "2024-06-30": 112,
       "2024-06-29": 1440,
       "2024-06-28": 1440,
       "2024-06-27": 1440,
@@ -569,7 +569,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-30": 68,
+      "2024-06-30": 112,
       "2024-06-29": 1440,
       "2024-06-28": 1440,
       "2024-06-27": 1440,
@@ -973,11 +973,11 @@
     "url": "https://vpn.bcbssc.com/",
     "icon": "https://icons.duckduckgo.com/ip3/vpn.bcbssc.com.ico",
     "slug": "crp-vpn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 319,
     "timeDay": 480,
@@ -985,6 +985,7 @@
     "timeMonth": 245,
     "timeYear": 331,
     "dailyMinutesDown": {
+      "2024-06-30": 2,
       "2023-09-24": 65
     }
   },
@@ -1005,7 +1006,7 @@
     "timeMonth": 0,
     "timeYear": 4018,
     "dailyMinutesDown": {
-      "2024-06-30": 68,
+      "2024-06-30": 112,
       "2024-06-29": 1440,
       "2024-06-28": 1440,
       "2024-06-27": 1440,
@@ -1382,7 +1383,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "24.98%",
+    "uptimeYear": "24.99%",
     "time": 309,
     "timeDay": 467,
     "timeWeek": 322,
@@ -1834,7 +1835,7 @@
     "timeMonth": 0,
     "timeYear": 284,
     "dailyMinutesDown": {
-      "2024-06-30": 68,
+      "2024-06-30": 113,
       "2024-06-29": 1440,
       "2024-06-28": 1440,
       "2024-06-27": 1440,
@@ -2147,7 +2148,7 @@
     "timeMonth": 0,
     "timeYear": 274,
     "dailyMinutesDown": {
-      "2024-06-30": 69,
+      "2024-06-30": 113,
       "2024-06-29": 1440,
       "2024-06-28": 1440,
       "2024-06-27": 1440,
@@ -2468,7 +2469,7 @@
     "timeMonth": 0,
     "timeYear": 389,
     "dailyMinutesDown": {
-      "2024-06-30": 69,
+      "2024-06-30": 113,
       "2024-06-29": 1440,
       "2024-06-28": 1440,
       "2024-06-27": 1440,
