@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 107,
-    "timeDay": 98,
+    "timeDay": 86,
     "timeWeek": 97,
-    "timeMonth": 107,
+    "timeMonth": 104,
     "timeYear": 106,
     "dailyMinutesDown": {
       "2024-05-01": 29
@@ -31,8 +31,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
     "time": 5,
-    "timeDay": 9,
-    "timeWeek": 5,
+    "timeDay": 5,
+    "timeWeek": 6,
     "timeMonth": 5,
     "timeYear": 5,
     "dailyMinutesDown": {
@@ -53,15 +53,14 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 478,
-    "timeDay": 560,
-    "timeWeek": 391,
-    "timeMonth": 375,
-    "timeYear": 427,
+    "timeDay": 379,
+    "timeWeek": 386,
+    "timeMonth": 378,
+    "timeYear": 426,
     "dailyMinutesDown": {
       "2024-12-13": 26,
       "2024-02-17": 17,
-      "2024-01-19": 71,
-      "2024-01-18": 72
+      "2024-01-19": 71
     }
   },
   {
@@ -76,9 +75,9 @@
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.48%",
     "time": 235,
-    "timeDay": 393,
-    "timeWeek": 260,
-    "timeMonth": 609,
+    "timeDay": 129,
+    "timeWeek": 250,
+    "timeMonth": 606,
     "timeYear": 235,
     "dailyMinutesDown": {
       "2024-12-23": 124,
@@ -142,8 +141,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 321,
-    "timeDay": 679,
-    "timeWeek": 473,
+    "timeDay": 289,
+    "timeWeek": 450,
     "timeMonth": 367,
     "timeYear": 287,
     "dailyMinutesDown": {
@@ -157,7 +156,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/pgbavirtualoffice.bcbssc.com.ico",
     "slug": "tri-vpn",
     "status": "down",
-    "uptime": "7.80%",
+    "uptime": "7.79%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -168,7 +167,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-16": 72,
+      "2025-01-17": 72,
+      "2025-01-16": 1440,
       "2025-01-15": 1440,
       "2025-01-14": 1440,
       "2025-01-13": 1440,
@@ -531,8 +531,7 @@
       "2024-01-22": 1440,
       "2024-01-21": 1440,
       "2024-01-20": 1440,
-      "2024-01-19": 1440,
-      "2024-01-18": 1440
+      "2024-01-19": 1440
     }
   },
   {
@@ -541,7 +540,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.mye-work.com.ico",
     "slug": "my-e-work",
     "status": "down",
-    "uptime": "45.19%",
+    "uptime": "45.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -552,7 +551,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-16": 72,
+      "2025-01-17": 72,
+      "2025-01-16": 1440,
       "2025-01-15": 1440,
       "2025-01-14": 1440,
       "2025-01-13": 1440,
@@ -915,8 +915,7 @@
       "2024-01-22": 1440,
       "2024-01-21": 1440,
       "2024-01-20": 1440,
-      "2024-01-19": 1440,
-      "2024-01-18": 1440
+      "2024-01-19": 1440
     }
   },
   {
@@ -931,10 +930,10 @@
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.64%",
     "time": 302,
-    "timeDay": 512,
-    "timeWeek": 386,
-    "timeMonth": 316,
-    "timeYear": 283,
+    "timeDay": 208,
+    "timeWeek": 366,
+    "timeMonth": 314,
+    "timeYear": 284,
     "dailyMinutesDown": {
       "2025-01-06": 69,
       "2024-12-04": 19,
@@ -955,18 +954,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/vpn.bcbssc.com.ico",
     "slug": "crp-vpn",
     "status": "down",
-    "uptime": "81.04%",
+    "uptime": "80.97%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "45.21%",
+    "uptimeYear": "44.94%",
     "time": 340,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 256,
+    "timeYear": 257,
     "dailyMinutesDown": {
-      "2025-01-16": 72,
+      "2025-01-17": 72,
+      "2025-01-16": 1440,
       "2025-01-15": 1440,
       "2025-01-14": 1440,
       "2025-01-13": 1440,
@@ -1175,7 +1175,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "member",
     "status": "down",
-    "uptime": "45.11%",
+    "uptime": "45.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1186,7 +1186,8 @@
     "timeMonth": 0,
     "timeYear": 597,
     "dailyMinutesDown": {
-      "2025-01-16": 72,
+      "2025-01-17": 72,
+      "2025-01-16": 1440,
       "2025-01-15": 1440,
       "2025-01-14": 1440,
       "2025-01-13": 1440,
@@ -1549,8 +1550,7 @@
       "2024-01-22": 1440,
       "2024-01-21": 1440,
       "2024-01-20": 1440,
-      "2024-01-19": 1440,
-      "2024-01-18": 1440
+      "2024-01-19": 1440
     }
   },
   {
@@ -1559,15 +1559,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.southcarolinablues.com.ico",
     "slug": "south-carolina-blues",
     "status": "up",
-    "uptime": "72.80%",
+    "uptime": "72.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.84%",
-    "uptimeYear": "79.74%",
+    "uptimeYear": "80.02%",
     "time": 301,
-    "timeDay": 621,
-    "timeWeek": 433,
-    "timeMonth": 338,
+    "timeDay": 244,
+    "timeWeek": 419,
+    "timeMonth": 337,
     "timeYear": 300,
     "dailyMinutesDown": {
       "2025-01-06": 68,
@@ -1646,8 +1646,7 @@
       "2024-01-22": 1440,
       "2024-01-21": 1440,
       "2024-01-20": 1440,
-      "2024-01-19": 1440,
-      "2024-01-18": 1440
+      "2024-01-19": 1440
     }
   },
   {
@@ -1662,8 +1661,8 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 439,
-    "timeDay": 917,
-    "timeWeek": 651,
+    "timeDay": 393,
+    "timeWeek": 633,
     "timeMonth": 482,
     "timeYear": 399,
     "dailyMinutesDown": {
@@ -1681,12 +1680,12 @@
     "uptime": "98.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.16%",
-    "uptimeMonth": "96.44%",
+    "uptimeMonth": "96.65%",
     "uptimeYear": "97.06%",
-    "time": 451,
-    "timeDay": 628,
-    "timeWeek": 471,
-    "timeMonth": 379,
+    "time": 450,
+    "timeDay": 341,
+    "timeWeek": 458,
+    "timeMonth": 384,
     "timeYear": 402,
     "dailyMinutesDown": {
       "2025-01-13": 165,
@@ -1801,16 +1800,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/drcomremote.bcbssc.com.ico",
     "slug": "dr-com-remote",
     "status": "up",
-    "uptime": "9.66%",
+    "uptime": "9.74%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "35.42%",
-    "uptimeMonth": "6.24%",
-    "uptimeYear": "2.73%",
-    "time": 288,
-    "timeDay": 547,
-    "timeWeek": 335,
-    "timeMonth": 335,
-    "timeYear": 291,
+    "uptimeWeek": "49.70%",
+    "uptimeMonth": "9.53%",
+    "uptimeYear": "2.90%",
+    "time": 282,
+    "timeDay": 90,
+    "timeWeek": 286,
+    "timeMonth": 286,
+    "timeYear": 289,
     "dailyMinutesDown": {
       "2025-01-13": 822,
       "2025-01-12": 1440,
@@ -2166,8 +2165,7 @@
       "2024-01-28": 639,
       "2024-01-21": 802,
       "2024-01-20": 1440,
-      "2024-01-19": 912,
-      "2024-01-18": 913
+      "2024-01-19": 912
     }
   },
   {
@@ -2176,16 +2174,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/drtriremote.bcbssc.com.ico",
     "slug": "dr-tri-remote",
     "status": "up",
-    "uptime": "11.01%",
+    "uptime": "11.13%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "35.42%",
-    "uptimeMonth": "8.79%",
-    "uptimeYear": "3.15%",
+    "uptimeWeek": "49.70%",
+    "uptimeMonth": "12.07%",
+    "uptimeYear": "3.32%",
     "time": 304,
-    "timeDay": 549,
-    "timeWeek": 348,
-    "timeMonth": 410,
-    "timeYear": 308,
+    "timeDay": 93,
+    "timeWeek": 297,
+    "timeMonth": 364,
+    "timeYear": 309,
     "dailyMinutesDown": {
       "2025-01-13": 822,
       "2025-01-12": 1440,
@@ -2541,8 +2539,7 @@
       "2024-01-28": 639,
       "2024-01-21": 802,
       "2024-01-20": 1440,
-      "2024-01-19": 912,
-      "2024-01-18": 913
+      "2024-01-19": 912
     }
   },
   {
@@ -2551,16 +2548,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/drmedremote.bcbssc.com.ico",
     "slug": "dr-med-remote",
     "status": "up",
-    "uptime": "37.34%",
+    "uptime": "37.42%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "19.81%",
-    "uptimeMonth": "2.65%",
-    "uptimeYear": "2.43%",
-    "time": 290,
-    "timeDay": 538,
-    "timeWeek": 423,
-    "timeMonth": 423,
-    "timeYear": 289,
+    "uptimeWeek": "34.09%",
+    "uptimeMonth": "5.94%",
+    "uptimeYear": "2.60%",
+    "time": 285,
+    "timeDay": 116,
+    "timeWeek": 346,
+    "timeMonth": 346,
+    "timeYear": 293,
     "dailyMinutesDown": {
       "2025-01-14": 956,
       "2025-01-13": 1440,
@@ -2917,8 +2914,7 @@
       "2024-01-28": 638,
       "2024-01-21": 802,
       "2024-01-20": 1440,
-      "2024-01-19": 911,
-      "2024-01-18": 912
+      "2024-01-19": 911
     }
   },
   {
