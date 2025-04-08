@@ -66,11 +66,11 @@
     "url": "https://palmettogba.com/",
     "icon": "https://icons.duckduckgo.com/ip3/palmettogba.com.ico",
     "slug": "hosted-palmetto-gba",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "93.06%",
-    "uptimeWeek": "97.51%",
-    "uptimeMonth": "98.54%",
+    "uptimeDay": "92.94%",
+    "uptimeWeek": "97.49%",
+    "uptimeMonth": "98.53%",
     "uptimeYear": "99.47%",
     "time": 244,
     "timeDay": 198,
@@ -78,7 +78,7 @@
     "timeMonth": 239,
     "timeYear": 244,
     "dailyMinutesDown": {
-      "2025-04-08": 84,
+      "2025-04-08": 86,
       "2025-04-07": 17,
       "2025-04-06": 54,
       "2025-04-05": 31,
@@ -125,8 +125,7 @@
       "2024-11-03": 49,
       "2024-11-02": 152,
       "2024-11-01": 58,
-      "2024-10-31": 57,
-      "2024-10-30": 17
+      "2024-10-31": 57
     }
   },
   {
@@ -167,7 +166,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-08": 454,
+      "2025-04-08": 588,
       "2025-04-07": 1440,
       "2025-04-06": 1440,
       "2025-04-05": 1440,
@@ -551,7 +550,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-08": 454,
+      "2025-04-08": 588,
       "2025-04-07": 1440,
       "2025-04-06": 1440,
       "2025-04-05": 1440,
@@ -951,10 +950,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/vpn.bcbssc.com.ico",
     "slug": "crp-vpn",
     "status": "up",
-    "uptime": "77.13%",
+    "uptime": "77.14%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "70.92%",
+    "uptimeMonth": "71.23%",
     "uptimeYear": "28.74%",
     "time": 277,
     "timeDay": 270,
@@ -1231,7 +1230,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "member",
     "status": "down",
-    "uptime": "41.86%",
+    "uptime": "41.85%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1242,7 +1241,7 @@
     "timeMonth": 0,
     "timeYear": 604,
     "dailyMinutesDown": {
-      "2025-04-08": 454,
+      "2025-04-08": 588,
       "2025-04-07": 1440,
       "2025-04-06": 1440,
       "2025-04-05": 1440,
@@ -1794,7 +1793,7 @@
     "timeMonth": 0,
     "timeYear": 220,
     "dailyMinutesDown": {
-      "2025-04-08": 454,
+      "2025-04-08": 588,
       "2025-04-07": 1440,
       "2025-04-06": 1440,
       "2025-04-05": 1440,
@@ -2164,7 +2163,7 @@
     "timeMonth": 0,
     "timeYear": 259,
     "dailyMinutesDown": {
-      "2025-04-08": 454,
+      "2025-04-08": 588,
       "2025-04-07": 1440,
       "2025-04-06": 1440,
       "2025-04-05": 1440,
@@ -2534,7 +2533,7 @@
     "timeMonth": 0,
     "timeYear": 232,
     "dailyMinutesDown": {
-      "2025-04-08": 454,
+      "2025-04-08": 588,
       "2025-04-07": 1440,
       "2025-04-06": 1440,
       "2025-04-05": 1440,
