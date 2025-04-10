@@ -66,19 +66,19 @@
     "url": "https://palmettogba.com/",
     "icon": "https://icons.duckduckgo.com/ip3/palmettogba.com.ico",
     "slug": "hosted-palmetto-gba",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "97.23%",
-    "uptimeWeek": "97.21%",
-    "uptimeMonth": "98.32%",
-    "uptimeYear": "99.47%",
+    "uptimeDay": "97.10%",
+    "uptimeWeek": "97.19%",
+    "uptimeMonth": "98.31%",
+    "uptimeYear": "99.48%",
     "time": 243,
     "timeDay": 272,
     "timeWeek": 255,
     "timeMonth": 236,
     "timeYear": 244,
     "dailyMinutesDown": {
-      "2025-04-10": 40,
+      "2025-04-10": 42,
       "2025-04-09": 36,
       "2025-04-08": 103,
       "2025-04-07": 17,
@@ -125,8 +125,7 @@
       "2024-11-05": 49,
       "2024-11-04": 17,
       "2024-11-03": 49,
-      "2024-11-02": 152,
-      "2024-11-01": 25
+      "2024-11-02": 152
     }
   },
   {
@@ -167,7 +166,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-10": 1275,
+      "2025-04-10": 1323,
       "2025-04-09": 1440,
       "2025-04-08": 1440,
       "2025-04-07": 1440,
@@ -551,7 +550,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-10": 1275,
+      "2025-04-10": 1323,
       "2025-04-09": 1440,
       "2025-04-08": 1440,
       "2025-04-07": 1440,
@@ -954,7 +953,7 @@
     "uptime": "77.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "79.38%",
+    "uptimeMonth": "79.48%",
     "uptimeYear": "28.74%",
     "time": 279,
     "timeDay": 434,
@@ -1242,7 +1241,7 @@
     "timeMonth": 0,
     "timeYear": 604,
     "dailyMinutesDown": {
-      "2025-04-10": 1275,
+      "2025-04-10": 1323,
       "2025-04-09": 1440,
       "2025-04-08": 1440,
       "2025-04-07": 1440,
@@ -1615,7 +1614,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.southcarolinablues.com.ico",
     "slug": "south-carolina-blues",
     "status": "up",
-    "uptime": "74.81%",
+    "uptime": "74.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -1794,7 +1793,7 @@
     "timeMonth": 0,
     "timeYear": 220,
     "dailyMinutesDown": {
-      "2025-04-10": 1276,
+      "2025-04-10": 1323,
       "2025-04-09": 1440,
       "2025-04-08": 1440,
       "2025-04-07": 1440,
@@ -2164,7 +2163,7 @@
     "timeMonth": 0,
     "timeYear": 259,
     "dailyMinutesDown": {
-      "2025-04-10": 1276,
+      "2025-04-10": 1323,
       "2025-04-09": 1440,
       "2025-04-08": 1440,
       "2025-04-07": 1440,
@@ -2534,7 +2533,7 @@
     "timeMonth": 0,
     "timeYear": 232,
     "dailyMinutesDown": {
-      "2025-04-10": 1276,
+      "2025-04-10": 1323,
       "2025-04-09": 1440,
       "2025-04-08": 1440,
       "2025-04-07": 1440,
