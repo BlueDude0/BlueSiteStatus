@@ -66,10 +66,10 @@
     "url": "https://palmettogba.com/",
     "icon": "https://icons.duckduckgo.com/ip3/palmettogba.com.ico",
     "slug": "hosted-palmetto-gba",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "89.79%",
-    "uptimeWeek": "96.09%",
+    "uptimeDay": "89.67%",
+    "uptimeWeek": "96.08%",
     "uptimeMonth": "97.26%",
     "uptimeYear": "99.48%",
     "time": 245,
@@ -78,7 +78,7 @@
     "timeMonth": 255,
     "timeYear": 247,
     "dailyMinutesDown": {
-      "2025-04-19": 115,
+      "2025-04-19": 117,
       "2025-04-18": 32,
       "2025-04-17": 17,
       "2025-04-16": 19,
@@ -126,7 +126,7 @@
       "2024-11-16": 179,
       "2024-11-15": 52,
       "2024-11-14": 41,
-      "2024-11-12": 80
+      "2024-11-12": 59
     }
   },
   {
@@ -167,7 +167,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-19": 555,
+      "2025-04-19": 628,
       "2025-04-18": 1440,
       "2025-04-17": 1440,
       "2025-04-16": 1440,
@@ -551,7 +551,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-19": 555,
+      "2025-04-19": 628,
       "2025-04-18": 1440,
       "2025-04-17": 1440,
       "2025-04-16": 1440,
@@ -951,7 +951,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/vpn.bcbssc.com.ico",
     "slug": "crp-vpn",
     "status": "up",
-    "uptime": "77.35%",
+    "uptime": "77.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -1242,7 +1242,7 @@
     "timeMonth": 0,
     "timeYear": 468,
     "dailyMinutesDown": {
-      "2025-04-19": 555,
+      "2025-04-19": 628,
       "2025-04-18": 1440,
       "2025-04-17": 1440,
       "2025-04-16": 1440,
@@ -1794,7 +1794,7 @@
     "timeMonth": 0,
     "timeYear": 220,
     "dailyMinutesDown": {
-      "2025-04-19": 555,
+      "2025-04-19": 628,
       "2025-04-18": 1440,
       "2025-04-17": 1440,
       "2025-04-16": 1440,
@@ -2164,7 +2164,7 @@
     "timeMonth": 0,
     "timeYear": 259,
     "dailyMinutesDown": {
-      "2025-04-19": 555,
+      "2025-04-19": 628,
       "2025-04-18": 1440,
       "2025-04-17": 1440,
       "2025-04-16": 1440,
@@ -2523,7 +2523,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/drmedremote.bcbssc.com.ico",
     "slug": "dr-med-remote",
     "status": "down",
-    "uptime": "34.74%",
+    "uptime": "34.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -2534,7 +2534,7 @@
     "timeMonth": 0,
     "timeYear": 232,
     "dailyMinutesDown": {
-      "2025-04-19": 555,
+      "2025-04-19": 628,
       "2025-04-18": 1440,
       "2025-04-17": 1440,
       "2025-04-16": 1440,
