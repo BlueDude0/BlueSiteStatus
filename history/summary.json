@@ -4,19 +4,19 @@
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.06%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 110,
-    "timeDay": 278,
-    "timeWeek": 138,
-    "timeMonth": 115,
+    "timeDay": 222,
+    "timeWeek": 135,
+    "timeMonth": 114,
     "timeYear": 113,
     "dailyMinutesDown": {
-      "2025-04-28": 2,
+      "2025-04-28": 14,
       "2024-05-01": 29
     }
   },
@@ -169,7 +169,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-28": 1001,
+      "2025-04-28": 1015,
       "2025-04-27": 1440,
       "2025-04-26": 1440,
       "2025-04-25": 1440,
@@ -553,7 +553,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-28": 1001,
+      "2025-04-28": 1015,
       "2025-04-27": 1440,
       "2025-04-26": 1440,
       "2025-04-25": 1440,
@@ -1242,7 +1242,7 @@
     "timeMonth": 0,
     "timeYear": 468,
     "dailyMinutesDown": {
-      "2025-04-28": 1001,
+      "2025-04-28": 1015,
       "2025-04-27": 1440,
       "2025-04-26": 1440,
       "2025-04-25": 1440,
@@ -1795,7 +1795,7 @@
     "timeMonth": 0,
     "timeYear": 220,
     "dailyMinutesDown": {
-      "2025-04-28": 1001,
+      "2025-04-28": 1015,
       "2025-04-27": 1440,
       "2025-04-26": 1440,
       "2025-04-25": 1440,
@@ -2165,7 +2165,7 @@
     "timeMonth": 0,
     "timeYear": 259,
     "dailyMinutesDown": {
-      "2025-04-28": 1001,
+      "2025-04-28": 1015,
       "2025-04-27": 1440,
       "2025-04-26": 1440,
       "2025-04-25": 1440,
@@ -2535,7 +2535,7 @@
     "timeMonth": 0,
     "timeYear": 232,
     "dailyMinutesDown": {
-      "2025-04-28": 1001,
+      "2025-04-28": 1015,
       "2025-04-27": 1440,
       "2025-04-26": 1440,
       "2025-04-25": 1440,
