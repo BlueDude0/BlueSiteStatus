@@ -64,19 +64,19 @@
     "url": "https://palmettogba.com/",
     "icon": "https://icons.duckduckgo.com/ip3/palmettogba.com.ico",
     "slug": "hosted-palmetto-gba",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "87.99%",
-    "uptimeWeek": "94.62%",
-    "uptimeMonth": "96.46%",
+    "uptimeDay": "87.87%",
+    "uptimeWeek": "94.60%",
+    "uptimeMonth": "96.50%",
     "uptimeYear": "99.51%",
     "time": 244,
     "timeDay": 218,
     "timeWeek": 242,
-    "timeMonth": 253,
+    "timeMonth": 252,
     "timeYear": 244,
     "dailyMinutesDown": {
-      "2025-05-16": 61,
+      "2025-05-16": 63,
       "2025-05-15": 210,
       "2025-05-14": 42,
       "2025-05-13": 21,
@@ -124,8 +124,7 @@
       "2025-03-27": 61,
       "2025-03-26": 21,
       "2025-03-25": 19,
-      "2025-03-24": 34,
-      "2025-03-16": 18
+      "2025-03-24": 34
     }
   },
   {
@@ -166,7 +165,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-16": 282,
+      "2025-05-16": 338,
       "2025-05-15": 1440,
       "2025-05-14": 1440,
       "2025-05-13": 1440,
@@ -539,7 +538,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.mye-work.com.ico",
     "slug": "my-e-work",
     "status": "down",
-    "uptime": "40.60%",
+    "uptime": "40.59%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -550,7 +549,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-16": 282,
+      "2025-05-16": 338,
       "2025-05-15": 1440,
       "2025-05-14": 1440,
       "2025-05-13": 1440,
@@ -1239,7 +1238,7 @@
     "timeMonth": 0,
     "timeYear": 468,
     "dailyMinutesDown": {
-      "2025-05-16": 282,
+      "2025-05-16": 338,
       "2025-05-15": 1440,
       "2025-05-14": 1440,
       "2025-05-13": 1440,
@@ -1791,7 +1790,7 @@
     "timeMonth": 0,
     "timeYear": 220,
     "dailyMinutesDown": {
-      "2025-05-16": 282,
+      "2025-05-16": 338,
       "2025-05-15": 1440,
       "2025-05-14": 1440,
       "2025-05-13": 1440,
@@ -2161,7 +2160,7 @@
     "timeMonth": 0,
     "timeYear": 259,
     "dailyMinutesDown": {
-      "2025-05-16": 282,
+      "2025-05-16": 338,
       "2025-05-15": 1440,
       "2025-05-14": 1440,
       "2025-05-13": 1440,
@@ -2531,7 +2530,7 @@
     "timeMonth": 0,
     "timeYear": 232,
     "dailyMinutesDown": {
-      "2025-05-16": 282,
+      "2025-05-16": 338,
       "2025-05-15": 1440,
       "2025-05-14": 1440,
       "2025-05-13": 1440,
