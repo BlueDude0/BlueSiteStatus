@@ -64,10 +64,10 @@
     "url": "https://palmettogba.com/",
     "icon": "https://icons.duckduckgo.com/ip3/palmettogba.com.ico",
     "slug": "hosted-palmetto-gba",
-    "status": "up",
-    "uptime": "99.84%",
-    "uptimeDay": "90.95%",
-    "uptimeWeek": "94.29%",
+    "status": "down",
+    "uptime": "99.85%",
+    "uptimeDay": "90.83%",
+    "uptimeWeek": "94.27%",
     "uptimeMonth": "96.13%",
     "uptimeYear": "99.50%",
     "time": 244,
@@ -76,7 +76,7 @@
     "timeMonth": 254,
     "timeYear": 244,
     "dailyMinutesDown": {
-      "2025-05-17": 131,
+      "2025-05-17": 133,
       "2025-05-16": 112,
       "2025-05-15": 210,
       "2025-05-14": 42,
@@ -122,7 +122,7 @@
       "2025-03-30": 18,
       "2025-03-29": 146,
       "2025-03-28": 24,
-      "2025-03-27": 34
+      "2025-03-27": 15
     }
   },
   {
@@ -163,7 +163,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-17": 912,
+      "2025-05-17": 931,
       "2025-05-16": 1440,
       "2025-05-15": 1440,
       "2025-05-14": 1440,
@@ -547,7 +547,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-17": 912,
+      "2025-05-17": 931,
       "2025-05-16": 1440,
       "2025-05-15": 1440,
       "2025-05-14": 1440,
@@ -1236,7 +1236,7 @@
     "timeMonth": 0,
     "timeYear": 468,
     "dailyMinutesDown": {
-      "2025-05-17": 912,
+      "2025-05-17": 931,
       "2025-05-16": 1440,
       "2025-05-15": 1440,
       "2025-05-14": 1440,
@@ -1788,7 +1788,7 @@
     "timeMonth": 0,
     "timeYear": 220,
     "dailyMinutesDown": {
-      "2025-05-17": 912,
+      "2025-05-17": 931,
       "2025-05-16": 1440,
       "2025-05-15": 1440,
       "2025-05-14": 1440,
@@ -2158,7 +2158,7 @@
     "timeMonth": 0,
     "timeYear": 259,
     "dailyMinutesDown": {
-      "2025-05-17": 912,
+      "2025-05-17": 931,
       "2025-05-16": 1440,
       "2025-05-15": 1440,
       "2025-05-14": 1440,
@@ -2517,7 +2517,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/drmedremote.bcbssc.com.ico",
     "slug": "dr-med-remote",
     "status": "down",
-    "uptime": "33.58%",
+    "uptime": "33.57%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -2528,7 +2528,7 @@
     "timeMonth": 0,
     "timeYear": 232,
     "dailyMinutesDown": {
-      "2025-05-17": 912,
+      "2025-05-17": 931,
       "2025-05-16": 1440,
       "2025-05-15": 1440,
       "2025-05-14": 1440,
