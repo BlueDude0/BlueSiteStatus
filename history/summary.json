@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 111,
-    "timeDay": 80,
-    "timeWeek": 90,
+    "timeDay": 70,
+    "timeWeek": 85,
     "timeMonth": 88,
     "timeYear": 109,
     "dailyMinutesDown": {
@@ -52,10 +52,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 390,
-    "timeDay": 349,
-    "timeWeek": 345,
-    "timeMonth": 325,
+    "time": 389,
+    "timeDay": 322,
+    "timeWeek": 347,
+    "timeMonth": 326,
     "timeYear": 368,
     "dailyMinutesDown": {
       "2024-12-13": 26
@@ -67,18 +67,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/palmettogba.com.ico",
     "slug": "hosted-palmetto-gba",
     "status": "down",
-    "uptime": "93.30%",
+    "uptime": "93.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "76.72%",
+    "uptimeYear": "76.67%",
     "time": 252,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 252,
     "dailyMinutesDown": {
-      "2025-08-13": 1269,
+      "2025-08-14": 97,
+      "2025-08-13": 1440,
       "2025-08-12": 1440,
       "2025-08-11": 1440,
       "2025-08-10": 1440,
@@ -212,10 +213,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 351,
-    "timeDay": 332,
-    "timeWeek": 392,
-    "timeMonth": 362,
-    "timeYear": 375,
+    "timeDay": 236,
+    "timeWeek": 374,
+    "timeMonth": 361,
+    "timeYear": 374,
     "dailyMinutesDown": {
       "2025-06-18": 17,
       "2025-05-22": 74,
@@ -240,7 +241,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-13": 1269,
+      "2025-08-14": 97,
+      "2025-08-13": 1440,
       "2025-08-12": 1440,
       "2025-08-11": 1440,
       "2025-08-10": 1440,
@@ -603,8 +605,7 @@
       "2024-08-18": 1440,
       "2024-08-17": 1440,
       "2024-08-16": 1440,
-      "2024-08-15": 1440,
-      "2024-08-14": 1440
+      "2024-08-15": 1440
     }
   },
   {
@@ -624,7 +625,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-13": 1269,
+      "2025-08-14": 97,
+      "2025-08-13": 1440,
       "2025-08-12": 1440,
       "2025-08-11": 1440,
       "2025-08-10": 1440,
@@ -987,8 +989,7 @@
       "2024-08-18": 1440,
       "2024-08-17": 1440,
       "2024-08-16": 1440,
-      "2024-08-15": 1440,
-      "2024-08-14": 1440
+      "2024-08-15": 1440
     }
   },
   {
@@ -1003,9 +1004,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 298,
-    "timeDay": 260,
-    "timeWeek": 306,
-    "timeMonth": 279,
+    "timeDay": 221,
+    "timeWeek": 290,
+    "timeMonth": 280,
     "timeYear": 302,
     "dailyMinutesDown": {
       "2025-06-24": 28,
@@ -1029,12 +1030,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "41.01%",
+    "uptimeYear": "41.06%",
     "time": 362,
-    "timeDay": 337,
-    "timeWeek": 398,
-    "timeMonth": 352,
-    "timeYear": 418,
+    "timeDay": 262,
+    "timeWeek": 388,
+    "timeMonth": 350,
+    "timeYear": 417,
     "dailyMinutesDown": {
       "2025-05-22": 40,
       "2025-03-17": 230,
@@ -1251,8 +1252,7 @@
       "2024-08-18": 1440,
       "2024-08-17": 1440,
       "2024-08-16": 1440,
-      "2024-08-15": 1440,
-      "2024-08-14": 1440
+      "2024-08-15": 1440
     }
   },
   {
@@ -1272,7 +1272,8 @@
     "timeMonth": 0,
     "timeYear": 505,
     "dailyMinutesDown": {
-      "2025-08-13": 1270,
+      "2025-08-14": 97,
+      "2025-08-13": 1440,
       "2025-08-12": 1440,
       "2025-08-11": 1440,
       "2025-08-10": 1440,
@@ -1635,8 +1636,7 @@
       "2024-08-18": 1440,
       "2024-08-17": 1440,
       "2024-08-16": 1440,
-      "2024-08-15": 1440,
-      "2024-08-14": 1440
+      "2024-08-15": 1440
     }
   },
   {
@@ -1650,11 +1650,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 310,
-    "timeDay": 281,
-    "timeWeek": 345,
+    "time": 309,
+    "timeDay": 163,
+    "timeWeek": 322,
     "timeMonth": 320,
-    "timeYear": 317,
+    "timeYear": 316,
     "dailyMinutesDown": {
       "2025-06-18": 15,
       "2025-05-22": 39,
@@ -1678,10 +1678,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 426,
-    "timeDay": 390,
-    "timeWeek": 447,
-    "timeMonth": 430,
-    "timeYear": 438,
+    "timeDay": 289,
+    "timeWeek": 425,
+    "timeMonth": 427,
+    "timeYear": 436,
     "dailyMinutesDown": {
       "2025-06-24": 40,
       "2025-05-22": 39,
@@ -1694,16 +1694,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/dmecompetitivebid.com.ico",
     "slug": "dme-competitive-bid",
     "status": "up",
-    "uptime": "98.50%",
+    "uptime": "98.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "96.65%",
-    "uptimeMonth": "96.37%",
+    "uptimeMonth": "96.98%",
     "uptimeYear": "97.05%",
     "time": 417,
-    "timeDay": 315,
-    "timeWeek": 380,
-    "timeMonth": 374,
-    "timeYear": 419,
+    "timeDay": 306,
+    "timeWeek": 347,
+    "timeMonth": 372,
+    "timeYear": 418,
     "dailyMinutesDown": {
       "2025-08-11": 149,
       "2025-08-10": 189,
@@ -1821,8 +1821,8 @@
     "slug": "dr-com-remote",
     "status": "down",
     "uptime": "9.32%",
-    "uptimeDay": "35.62%",
-    "uptimeWeek": "25.78%",
+    "uptimeDay": "35.54%",
+    "uptimeWeek": "25.72%",
     "uptimeMonth": "6.31%",
     "uptimeYear": "5.07%",
     "time": 246,
@@ -1831,7 +1831,8 @@
     "timeMonth": 314,
     "timeYear": 246,
     "dailyMinutesDown": {
-      "2025-08-13": 758,
+      "2025-08-14": 98,
+      "2025-08-13": 928,
       "2025-08-12": 940,
       "2025-08-11": 926,
       "2025-08-10": 1440,
@@ -2180,8 +2181,7 @@
       "2024-08-18": 1440,
       "2024-08-17": 1440,
       "2024-08-16": 1440,
-      "2024-08-15": 1440,
-      "2024-08-14": 1440
+      "2024-08-15": 1440
     }
   },
   {
@@ -2201,7 +2201,8 @@
     "timeMonth": 0,
     "timeYear": 259,
     "dailyMinutesDown": {
-      "2025-08-13": 1270,
+      "2025-08-14": 98,
+      "2025-08-13": 1440,
       "2025-08-12": 1440,
       "2025-08-11": 1440,
       "2025-08-10": 1440,
@@ -2550,8 +2551,7 @@
       "2024-08-18": 1440,
       "2024-08-17": 1440,
       "2024-08-16": 1440,
-      "2024-08-15": 1440,
-      "2024-08-14": 1440
+      "2024-08-15": 1440
     }
   },
   {
@@ -2561,8 +2561,8 @@
     "slug": "dr-med-remote",
     "status": "down",
     "uptime": "30.68%",
-    "uptimeDay": "35.76%",
-    "uptimeWeek": "25.84%",
+    "uptimeDay": "35.60%",
+    "uptimeWeek": "25.77%",
     "uptimeMonth": "6.32%",
     "uptimeYear": "4.77%",
     "time": 250,
@@ -2571,7 +2571,8 @@
     "timeMonth": 296,
     "timeYear": 250,
     "dailyMinutesDown": {
-      "2025-08-13": 757,
+      "2025-08-14": 98,
+      "2025-08-13": 927,
       "2025-08-12": 939,
       "2025-08-11": 925,
       "2025-08-10": 1440,
@@ -2921,8 +2922,7 @@
       "2024-08-18": 1440,
       "2024-08-17": 1440,
       "2024-08-16": 1440,
-      "2024-08-15": 1440,
-      "2024-08-14": 1440
+      "2024-08-15": 1440
     }
   },
   {
